@@ -290,3 +290,10 @@
 [21:03:57] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-214, y=82, z=-77}) doesn't have enough leaves around top most log
 [21:03:57] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-214, y=83, z=-77}) doesn't have enough leaves around top most log
 [21:03:59] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-211, y=83, z=-75}) doesn't have enough leaves around top most log
+[21:32:56] [Server thread/INFO]: Mattiu04 lost connection: Disconnected
+[21:32:56] [Server thread/INFO]: Mattiu04 left the game
+[21:33:05] [Server thread/INFO]: Mattiu04[/100.84.128.80:51007] logged in with entity id 64953 at (-212.23964047306862, 77.0, -36.862118670368154)
+[21:33:05] [Server thread/INFO]: Mattiu04 joined the game
+[21:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
+[21:41:49] [Server thread/INFO]: Jimmy[local] logged in with entity id 75796 at (-591.6532393308786, 237.5, 799.74731655244)
+[21:41:49] [Server thread/INFO]: Jimmy joined the game
