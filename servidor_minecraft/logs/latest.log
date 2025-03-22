@@ -195,3 +195,4 @@
 [16:15:49] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:56791] logged in with entity id 28 at (-923.5110679682306, 64.0, 828.609805582302)
 [16:15:49] [Server thread/INFO]: FxxkingPanda23 joined the game
 [16:21:03] [Server thread/WARN]: FxxkingPanda23 moved too quickly! 0.0,10.400000033378646,0.0
+[16:38:39] [Server thread/INFO]: Villager class_1646['Villager'/186, l='ServerLevel[world]', x=-830.30, y=60.00, z=785.30] died, message: 'Villager was squished too much'
