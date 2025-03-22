@@ -297,3 +297,9 @@
 [21:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
 [21:41:49] [Server thread/INFO]: Jimmy[local] logged in with entity id 75796 at (-591.6532393308786, 237.5, 799.74731655244)
 [21:41:49] [Server thread/INFO]: Jimmy joined the game
+[23:04:46] [Server thread/INFO]: Jimmy lost connection: Killed
+[23:04:46] [Server thread/INFO]: Jimmy left the game
+[23:04:48] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
+[23:04:48] [Server thread/INFO]: FxxkingPanda23 left the game
+[23:05:24] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:59708] logged in with entity id 145753 at (-160.58916180421014, 67.0, -34.305185722366375)
+[23:05:24] [Server thread/INFO]: FxxkingPanda23 joined the game
