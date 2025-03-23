@@ -60,3 +60,8 @@
 [02:14:41] [Server thread/WARN]: Mattiu04 moved too quickly! -17.85500846964422,2.006199659772136,2.420218604084596
 [02:14:51] [Server thread/WARN]: Mattiu04 moved too quickly! 8.44100568743977,4.624016464173472,15.147558831465147
 [02:28:00] [Server thread/WARN]: FxxkingPanda23 moved too quickly! 17.420336943035238,1.0995819600895231,5.266168173727976
+[02:49:38] [Server thread/INFO]: FxxkingPanda23 lost connection: Timed out
+[02:49:38] [Server thread/INFO]: FxxkingPanda23 left the game
+[02:49:38] [Server thread/WARN]: handleDisconnection() called twice
+[02:49:46] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:62033] logged in with entity id 271286 at (73.74680259424731, 128.0, 42.30000001192093)
+[02:49:46] [Server thread/INFO]: FxxkingPanda23 joined the game
