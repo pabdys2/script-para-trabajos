@@ -221,3 +221,7 @@
 [19:27:03] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=551, y=85, z=402}) doesn't have enough leaves around top most log
 [19:27:18] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:65206] logged in with entity id 6175 at (-153.8769301151361, 67.0, 2.22129374771075)
 [19:27:18] [Server thread/INFO]: FxxkingPanda23 joined the game
+[19:29:34] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=549, y=85, z=402}) doesn't have enough leaves around top most log
+[19:30:10] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=551, y=84, z=402}) doesn't have enough leaves around top most log
+[19:32:35] [Server thread/WARN]: FxxkingPanda23 moved too quickly! 13.772738834101574,0.1879400529426647,-12.027977122406412
+[19:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
