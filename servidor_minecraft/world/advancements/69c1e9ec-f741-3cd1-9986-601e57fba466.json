@@ -5759,6 +5759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-03-23 21:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/red_bundle": {
     "criteria": {
       "has_red_dye": "2025-03-23 21:00:51 +0000"
