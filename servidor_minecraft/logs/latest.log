@@ -220,3 +220,4 @@
 [20:10:25] [Server thread/INFO]: Mattiu04 left the game
 [20:10:38] [Server thread/INFO]: Mattiu04[/100.84.128.80:65456] logged in with entity id 17566 at (-153.6583507074497, 63.0, 149.48372013520932)
 [20:10:38] [Server thread/INFO]: Mattiu04 joined the game
+[20:46:51] [Server thread/INFO]: Villager class_1646['Villager'/30899, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
