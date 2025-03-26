@@ -219,3 +219,30 @@
 [16:18:04] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
 [16:18:04] [Server thread/INFO]: .PANDA_ASHH joined the game
 [16:18:11] [Server thread/INFO]: [FxxkingPanda23: No skin changes]
+[16:21:17] [localSession-7-2/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
+[16:21:17] [Geyser Fabric connection thread-6-3/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
+[16:21:17] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
+[16:21:17] [Server thread/INFO]: .PANDA_ASHH left the game
+[16:21:59] [epollEventLoopGroup-4-3/INFO]: Player connected with username PANDA ASHH
+[16:21:59] [localSession-7-3/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
+[16:21:59] [pool-6-thread-3/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
+[16:21:59] [Thread-75/WARN]: Failed to fetch skin: not found
+[16:21:59] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 5844 at (-834.11505, 64.0, 854.5029)
+[16:21:59] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
+[16:21:59] [Server thread/INFO]: .PANDA_ASHH joined the game
+[16:24:33] [localSession-7-3/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
+[16:24:33] [Geyser Fabric connection thread-6-4/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
+[16:24:33] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
+[16:24:33] [Server thread/INFO]: .PANDA_ASHH left the game
+[16:24:57] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
+[16:24:57] [Server thread/INFO]: FxxkingPanda23 left the game
+[16:25:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:26:52] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:55739] logged in with entity id 6159 at (-835.6727548483193, 64.0, 852.7964870714716)
+[16:26:52] [Server thread/INFO]: FxxkingPanda23 joined the game
+[16:27:14] [epollEventLoopGroup-4-4/INFO]: Player connected with username PANDA ASHH
+[16:27:14] [localSession-7-4/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
+[16:27:14] [pool-6-thread-4/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
+[16:27:14] [Thread-92/WARN]: Failed to fetch skin: not found
+[16:27:14] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 6570 at (-832.54346, 64.0, 853.938)
+[16:27:14] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
+[16:27:14] [Server thread/INFO]: .PANDA_ASHH joined the game
