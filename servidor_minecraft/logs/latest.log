@@ -205,3 +205,17 @@
 [16:04:00] [Server thread/INFO]: .PANDA_ASHH has made the advancement [We Need to Go Deeper]
 [16:05:53] [Server thread/INFO]: [Not Secure] <.PANDA_ASHH> hi hijos de perra
 [16:06:39] [Server thread/INFO]: .PANDA_ASHH has made the advancement [Sweet Dreams]
+[16:08:58] [Server thread/INFO]: .PANDA_ASHH has made the advancement [Stone Age]
+[16:13:48] [Server thread/INFO]: [FxxkingPanda23: No skin changes]
+[16:14:30] [localSession-7-1/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
+[16:14:30] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
+[16:14:30] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
+[16:14:30] [Server thread/INFO]: .PANDA_ASHH left the game
+[16:18:03] [epollEventLoopGroup-4-2/INFO]: Player connected with username PANDA ASHH
+[16:18:03] [localSession-7-2/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
+[16:18:04] [pool-6-thread-2/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
+[16:18:04] [Thread-63/WARN]: Failed to fetch skin: not found
+[16:18:04] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 5241 at (-774.189, 64.0, 893.6807)
+[16:18:04] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
+[16:18:04] [Server thread/INFO]: .PANDA_ASHH joined the game
+[16:18:11] [Server thread/INFO]: [FxxkingPanda23: No skin changes]
