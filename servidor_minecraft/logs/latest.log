@@ -1,5 +1,5 @@
-[01:35:16] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[01:35:17] [main/INFO]: Loading 108 mods:
+[22:05:56] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[22:05:57] [main/INFO]: Loading 108 mods:
 	- carpet 1.4.161+v241203
 	- carpet-ams-addition 2.57.0
 	   |-- annotationtoolbox 0.3
@@ -129,127 +129,72 @@
 	- minecraft 1.21.4
 	- skinrestorer 2.2.1+1.21-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[01:35:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:35:18] [main/INFO]: Compatibility level set to JAVA_17
-[01:35:19] [main/INFO]: Compatibility level set to JAVA_21
-[01:35:22] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:35:45] [main/INFO]: Loading Collective version 7.94.
-[01:35:46] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.4+build.8-v2.tiny loaded
-[01:35:47] [main/WARN]: en_ is not a supported Floodgate language.
-[01:35:50] [main/INFO]: Loading extensions...
-[01:35:50] [main/INFO]: Loaded 0 extension(s)
-[01:35:50] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
-[01:35:50] [main/INFO]: Carpet AMS Addition v2.57.0 loaded! (Total rules: 141)
-[01:35:50] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[01:35:50] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[01:35:50] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[01:35:51] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:35:58] [main/INFO]: Loaded 1370 recipes
-[01:35:58] [main/INFO]: Loaded 1481 advancements
-[01:35:59] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.290 ms
-[01:35:59] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[01:35:59] [Server thread/INFO]: Loading properties
-[01:35:59] [Server thread/INFO]: Default game type: SURVIVAL
-[01:35:59] [Server thread/INFO]: Generating keypair
-[01:35:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:35:59] [Server thread/INFO]: Using epoll channel type
-[01:36:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:36:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:36:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:36:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:36:00] [Server thread/INFO]: Preparing level "world"
-[01:36:00] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
-[01:36:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:12] [Server thread/INFO]: Time elapsed: 9827 ms
-[01:36:13] [Server thread/INFO]: Loaded 1370 recipes
-[01:36:13] [Server thread/INFO]: Loaded 1481 advancements
-[01:36:13] [Server thread/INFO]: Done (13.279s)! For help, type "help"
-[01:36:14] [Server thread/INFO]: Took 49ms to boot Floodgate
-[01:36:14] [Server thread/INFO]: ******************************************
-[01:36:14] [Server thread/INFO]: 
-[01:36:14] [Server thread/INFO]: Loading Geyser version 2.6.1-b786 (git-master-32160c5)
-[01:36:14] [Server thread/INFO]: 
-[01:36:14] [Server thread/INFO]: ******************************************
-[01:36:22] [epollEventLoopGroup-3-1/INFO]: Started Geyser on UDP port 19132
-[01:36:22] [Server thread/INFO]: Done (8.104s)! Run /geyser help for help!
-[01:36:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8865ms or 177 ticks behind
-[01:36:22] [Thread-14/INFO]: [32;1mThere's a new Geyser update available to support Bedrock version 1.21.70. Download it here: [34;1m[4mhttps://geysermc.org/download[0m
-[01:36:28] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:50520] logged in with entity id 33 at (-833.19239859815, 63.0, 835.9468903355769)
-[01:36:29] [Server thread/INFO]: FxxkingPanda23 joined the game
-[01:36:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10380ms or 207 ticks behind
-[01:51:40] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1520, y=73, z=1059}) doesn't have enough leaves around top most log
-[01:52:16] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1463, y=73, z=1057}) doesn't have enough leaves around top most log
-[01:52:21] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1470, y=72, z=1064}) doesn't have enough leaves around top most log
-[01:52:26] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1473, y=72, z=1069}) doesn't have enough leaves around top most log
-[01:52:40] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1456, y=72, z=1067}) doesn't have enough leaves around top most log
-[01:52:44] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1453, y=72, z=1063}) doesn't have enough leaves around top most log
-[01:55:58] [Server thread/INFO]: [FxxkingPanda23: Gave 1 [Beacon] to FxxkingPanda23]
-[01:56:59] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1439, y=73, z=1051}) doesn't have enough leaves around top most log
-[01:57:12] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1429, y=77, z=1035}) doesn't have enough leaves around top most log
-[01:59:40] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1431, y=78, z=1074}) doesn't have enough leaves around top most log
-[02:01:56] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1441, y=78, z=1029}) doesn't have enough leaves around top most log
-[02:05:51] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1444, y=79, z=1009}) doesn't have enough leaves around top most log
-[02:05:56] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1454, y=78, z=1003}) doesn't have enough leaves around top most log
-[02:09:57] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1433, y=77, z=1000}) doesn't have enough leaves around top most log
-[02:09:59] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1434, y=77, z=1006}) doesn't have enough leaves around top most log
-[02:12:36] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1459, y=78, z=996}) doesn't have enough leaves around top most log
-[02:14:32] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1451, y=75, z=1030}) doesn't have enough leaves around top most log
-[02:14:37] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1463, y=73, z=1034}) doesn't have enough leaves around top most log
-[02:14:39] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1466, y=73, z=1033}) doesn't have enough leaves around top most log
-[02:20:34] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1425, y=75, z=1016}) doesn't have enough leaves around top most log
-[02:33:41] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1492, y=72, z=1010}) doesn't have enough leaves around top most log
-[02:37:46] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[02:37:46] [Server thread/INFO]: FxxkingPanda23 left the game
-[02:37:51] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51218] logged in with entity id 40935 at (-818.9253466105393, 63.0, 808.3686104383885)
-[02:37:51] [Server thread/INFO]: FxxkingPanda23 joined the game
-[02:38:13] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[02:38:13] [Server thread/INFO]: FxxkingPanda23 left the game
-[02:39:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:39:39] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51414] logged in with entity id 41229 at (-818.9253466105393, 63.0, 808.3686104383885)
-[02:39:39] [Server thread/INFO]: FxxkingPanda23 joined the game
-[02:39:49] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[02:39:49] [Server thread/INFO]: FxxkingPanda23 left the game
-[02:39:53] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51422] logged in with entity id 41691 at (-101.02919082276901, 128.0, 101.5)
-[02:39:53] [Server thread/INFO]: FxxkingPanda23 joined the game
-[02:43:46] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1419, y=73, z=1022}) doesn't have enough leaves around top most log
-[02:46:19] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1409, y=74, z=1038}) doesn't have enough leaves around top most log
-[02:52:29] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1417, y=72, z=1004}) doesn't have enough leaves around top most log
-[02:53:18] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1497, y=72, z=1001}) doesn't have enough leaves around top most log
-[02:53:39] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1513, y=74, z=1013}) doesn't have enough leaves around top most log
-[02:55:08] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1515, y=71, z=1074}) doesn't have enough leaves around top most log
-[02:56:46] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1508, y=75, z=1034}) doesn't have enough leaves around top most log
-[02:56:54] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1500, y=77, z=1037}) doesn't have enough leaves around top most log
-[02:58:54] [Server thread/WARN]: FxxkingPanda23 moved too quickly! -5.980441369537402,-0.3970468620972696,-16.671038234047273
-[03:00:37] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1496, y=72, z=1026}) doesn't have enough leaves around top most log
-[03:00:55] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1510, y=72, z=1007}) doesn't have enough leaves around top most log
-[03:09:27] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1484, y=72, z=1070}) doesn't have enough leaves around top most log
-[03:09:31] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1490, y=72, z=1071}) doesn't have enough leaves around top most log
-[03:09:43] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1489, y=72, z=1074}) doesn't have enough leaves around top most log
-[03:10:04] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1494, y=70, z=1091}) doesn't have enough leaves around top most log
-[03:10:11] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1513, y=70, z=1093}) doesn't have enough leaves around top most log
-[03:10:22] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1482, y=69, z=1094}) doesn't have enough leaves around top most log
-[03:10:26] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1481, y=70, z=1082}) doesn't have enough leaves around top most log
-[03:10:28] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1476, y=70, z=1081}) doesn't have enough leaves around top most log
-[03:10:32] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1462, y=71, z=1082}) doesn't have enough leaves around top most log
-[03:10:39] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1451, y=70, z=1092}) doesn't have enough leaves around top most log
-[03:11:51] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1441, y=73, z=1069}) doesn't have enough leaves around top most log
+[22:05:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:05:58] [main/INFO]: Compatibility level set to JAVA_17
+[22:05:58] [main/INFO]: Compatibility level set to JAVA_21
+[22:06:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:06:24] [main/INFO]: Loading Collective version 7.94.
+[22:06:25] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.4+build.8-v2.tiny loaded
+[22:06:26] [main/WARN]: en_ is not a supported Floodgate language.
+[22:06:28] [main/INFO]: Loading extensions...
+[22:06:28] [main/INFO]: Loaded 0 extension(s)
+[22:06:28] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
+[22:06:29] [main/INFO]: Carpet AMS Addition v2.57.0 loaded! (Total rules: 141)
+[22:06:29] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[22:06:29] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[22:06:29] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[22:06:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:06:38] [main/INFO]: Loaded 1370 recipes
+[22:06:38] [main/INFO]: Loaded 1481 advancements
+[22:06:38] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.107 ms
+[22:06:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:06:38] [Server thread/INFO]: Loading properties
+[22:06:38] [Server thread/INFO]: Default game type: SURVIVAL
+[22:06:38] [Server thread/INFO]: Generating keypair
+[22:06:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:06:39] [Server thread/INFO]: Using epoll channel type
+[22:06:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:06:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:06:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:06:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:06:40] [Server thread/INFO]: Preparing level "world"
+[22:06:40] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
+[22:06:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:06:52] [Worker-Main-1/INFO]: Preparing spawn area: 59%
+[22:06:52] [Server thread/INFO]: Time elapsed: 10205 ms
+[22:06:53] [Server thread/INFO]: Loaded 1370 recipes
+[22:06:53] [Server thread/INFO]: Loaded 1481 advancements
+[22:06:53] [Server thread/INFO]: Done (13.337s)! For help, type "help"
+[22:06:53] [Server thread/INFO]: Took 71ms to boot Floodgate
+[22:06:53] [Server thread/INFO]: ******************************************
+[22:06:53] [Server thread/INFO]: 
+[22:06:53] [Server thread/INFO]: Loading Geyser version 2.6.1-b786 (git-master-32160c5)
+[22:06:53] [Server thread/INFO]: 
+[22:06:53] [Server thread/INFO]: ******************************************
+[22:07:01] [epollEventLoopGroup-3-1/INFO]: Started Geyser on UDP port 19132
+[22:07:02] [Server thread/INFO]: Done (8.635s)! Run /geyser help for help!
+[22:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8994ms or 179 ticks behind
+[22:07:02] [Thread-13/INFO]: [32;1mThere's a new Geyser update available to support Bedrock version 1.21.70. Download it here: [34;1m[4mhttps://geysermc.org/download[0m
+[22:07:11] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52671] logged in with entity id 12 at (-1423.1889103172782, 68.0, 1090.8091159654043)
+[22:07:11] [Server thread/INFO]: FxxkingPanda23 joined the game
+[22:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2802ms or 56 ticks behind
