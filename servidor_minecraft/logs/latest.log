@@ -1,5 +1,5 @@
-[19:59:28] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[19:59:29] [main/INFO]: Loading 108 mods:
+[21:31:02] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[21:31:03] [main/INFO]: Loading 108 mods:
 	- carpet 1.4.161+v241203
 	- carpet-ams-addition 2.57.0
 	   |-- annotationtoolbox 0.3
@@ -129,63 +129,71 @@
 	- minecraft 1.21.4
 	- skinrestorer 2.2.1+1.21-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[19:59:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:59:29] [main/INFO]: Compatibility level set to JAVA_17
-[19:59:29] [main/INFO]: Compatibility level set to JAVA_21
-[19:59:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:59:46] [main/INFO]: Loading Collective version 7.94.
-[19:59:46] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.4+build.8-v2.tiny loaded
-[19:59:47] [main/WARN]: en_ is not a supported Floodgate language.
-[19:59:48] [main/INFO]: Loading extensions...
-[19:59:48] [main/INFO]: Loaded 0 extension(s)
-[19:59:48] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
-[19:59:48] [main/INFO]: Carpet AMS Addition v2.57.0 loaded! (Total rules: 141)
-[19:59:48] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[19:59:48] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[19:59:48] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[19:59:49] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:59:52] [main/INFO]: Loaded 1370 recipes
-[19:59:52] [main/INFO]: Loaded 1481 advancements
-[19:59:52] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.489 ms
-[19:59:52] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:59:52] [Server thread/INFO]: Loading properties
-[19:59:52] [Server thread/INFO]: Default game type: SURVIVAL
-[19:59:52] [Server thread/INFO]: Generating keypair
-[19:59:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:59:53] [Server thread/INFO]: Using epoll channel type
-[19:59:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:59:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:59:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:59:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:59:53] [Server thread/INFO]: Preparing level "world"
-[19:59:53] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
-[19:59:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:00:01] [Server thread/INFO]: Time elapsed: 7154 ms
-[20:00:02] [Server thread/INFO]: Loaded 1370 recipes
-[20:00:02] [Server thread/INFO]: Loaded 1481 advancements
-[20:00:02] [Server thread/INFO]: Done (8.823s)! For help, type "help"
-[20:00:02] [Server thread/INFO]: Took 40ms to boot Floodgate
-[20:00:02] [Server thread/INFO]: ******************************************
-[20:00:02] [Server thread/INFO]: 
-[20:00:02] [Server thread/INFO]: Loading Geyser version 2.6.1-b786 (git-master-32160c5)
-[20:00:02] [Server thread/INFO]: 
-[20:00:02] [Server thread/INFO]: ******************************************
-[20:00:06] [epollEventLoopGroup-3-1/INFO]: Started Geyser on UDP port 19132
-[20:00:06] [Server thread/INFO]: Done (4.461s)! Run /geyser help for help!
-[20:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4682ms or 93 ticks behind
-[20:00:07] [Thread-13/INFO]: [32;1mThere's a new Geyser update available to support Bedrock version 1.21.70. Download it here: [34;1m[4mhttps://geysermc.org/download[0m
-[20:01:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:31:03] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:31:03] [main/INFO]: Compatibility level set to JAVA_17
+[21:31:03] [main/INFO]: Compatibility level set to JAVA_21
+[21:31:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:31:18] [main/INFO]: Loading Collective version 7.94.
+[21:31:19] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.4+build.8-v2.tiny loaded
+[21:31:19] [main/WARN]: en_ is not a supported Floodgate language.
+[21:31:21] [main/INFO]: Loading extensions...
+[21:31:21] [main/INFO]: Loaded 0 extension(s)
+[21:31:21] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
+[21:31:21] [main/INFO]: Carpet AMS Addition v2.57.0 loaded! (Total rules: 141)
+[21:31:21] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[21:31:21] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[21:31:21] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[21:31:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:31:26] [main/INFO]: Loaded 1370 recipes
+[21:31:26] [main/INFO]: Loaded 1481 advancements
+[21:31:26] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.951 ms
+[21:31:26] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:31:26] [Server thread/INFO]: Loading properties
+[21:31:26] [Server thread/INFO]: Default game type: SURVIVAL
+[21:31:26] [Server thread/INFO]: Generating keypair
+[21:31:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:31:26] [Server thread/INFO]: Using epoll channel type
+[21:31:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:31:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:31:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:31:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:31:26] [Server thread/INFO]: Preparing level "world"
+[21:31:26] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
+[21:31:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:31:36] [Server thread/INFO]: Time elapsed: 9228 ms
+[21:31:37] [Server thread/INFO]: Loaded 1370 recipes
+[21:31:37] [Server thread/INFO]: Loaded 1481 advancements
+[21:31:37] [Server thread/INFO]: Done (10.678s)! For help, type "help"
+[21:31:37] [Server thread/INFO]: Took 30ms to boot Floodgate
+[21:31:37] [Server thread/INFO]: ******************************************
+[21:31:37] [Server thread/INFO]: 
+[21:31:37] [Server thread/INFO]: Loading Geyser version 2.6.1-b786 (git-master-32160c5)
+[21:31:37] [Server thread/INFO]: 
+[21:31:37] [Server thread/INFO]: ******************************************
+[21:31:41] [epollEventLoopGroup-3-1/INFO]: Started Geyser on UDP port 19132
+[21:31:42] [Server thread/INFO]: Done (4.428s)! Run /geyser help for help!
+[21:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4607ms or 92 ticks behind
+[21:31:42] [Thread-13/INFO]: [32;1mThere's a new Geyser update available to support Bedrock version 1.21.70. Download it here: [34;1m[4mhttps://geysermc.org/download[0m
+[21:32:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:32:58] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52695] logged in with entity id 35 at (-817.1510826609056, 63.0, 821.0208535152043)
+[21:32:58] [Server thread/INFO]: FxxkingPanda23 joined the game
+[21:33:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
