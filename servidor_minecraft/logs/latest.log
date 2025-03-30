@@ -198,3 +198,55 @@
 [21:32:58] [Server thread/INFO]: FxxkingPanda23 joined the game
 [21:33:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
 [21:56:55] [Server thread/WARN]: FxxkingPanda23 moved too quickly! 7.753483425175773,0.4549494563845258,16.19590540346644
+[22:05:43] [Server thread/INFO]: Villager class_1646['Villager'/12564, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[22:05:54] [Server thread/INFO]: Tree reached max size of 100
+[22:05:55] [Server thread/INFO]: Tree reached max size of 100
+[22:05:55] [Server thread/INFO]: Tree reached max size of 100
+[22:05:56] [Server thread/INFO]: Tree reached max size of 100
+[22:05:56] [Server thread/INFO]: Tree reached max size of 100
+[22:05:57] [Server thread/INFO]: Tree reached max size of 100
+[22:05:57] [Server thread/INFO]: Tree reached max size of 100
+[22:05:58] [Server thread/INFO]: Tree reached max size of 100
+[22:05:58] [Server thread/INFO]: Tree reached max size of 100
+[22:05:59] [Server thread/INFO]: Tree reached max size of 100
+[22:06:00] [Server thread/INFO]: Tree reached max size of 100
+[22:06:00] [Server thread/INFO]: Tree reached max size of 100
+[22:06:01] [Server thread/INFO]: Tree reached max size of 100
+[22:06:02] [Server thread/INFO]: Tree reached max size of 100
+[22:06:05] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-990, y=110, z=559}) doesn't have enough leaves around top most log
+[22:06:06] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-990, y=109, z=559}) doesn't have enough leaves around top most log
+[22:06:06] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-991, y=109, z=559}) doesn't have enough leaves around top most log
+[22:06:06] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-991, y=109, z=558}) doesn't have enough leaves around top most log
+[22:06:07] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-991, y=110, z=559}) doesn't have enough leaves around top most log
+[22:06:08] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-990, y=111, z=559}) doesn't have enough leaves around top most log
+[22:06:36] [Server thread/INFO]: Tree reached max size of 100
+[22:06:37] [Server thread/INFO]: Tree reached max size of 100
+[22:06:37] [Server thread/INFO]: Tree reached max size of 100
+[22:06:38] [Server thread/INFO]: Tree reached max size of 100
+[22:07:37] [Server thread/INFO]: Tree reached max size of 100
+[22:07:38] [Server thread/INFO]: Tree reached max size of 100
+[22:07:39] [Server thread/INFO]: Tree reached max size of 100
+[22:07:39] [Server thread/INFO]: Tree reached max size of 100
+[22:07:40] [Server thread/INFO]: Tree reached max size of 100
+[22:07:40] [Server thread/INFO]: Tree reached max size of 100
+[22:07:40] [Server thread/INFO]: Tree reached max size of 100
+[22:07:41] [Server thread/INFO]: Tree reached max size of 100
+[22:07:42] [Server thread/INFO]: Tree reached max size of 100
+[22:07:42] [Server thread/INFO]: Tree reached max size of 100
+[22:07:42] [Server thread/INFO]: Tree reached max size of 100
+[22:07:43] [Server thread/INFO]: Tree reached max size of 100
+[22:07:43] [Server thread/INFO]: Tree reached max size of 100
+[22:07:44] [Server thread/INFO]: Tree reached max size of 100
+[22:07:44] [Server thread/INFO]: Tree reached max size of 100
+[22:07:45] [Server thread/INFO]: Tree reached max size of 100
+[22:07:45] [Server thread/INFO]: Tree reached max size of 100
+[22:07:47] [Server thread/INFO]: Tree reached max size of 100
+[22:07:50] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1018, y=99, z=588}) doesn't have enough leaves around top most log
+[22:07:51] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1017, y=99, z=588}) doesn't have enough leaves around top most log
+[22:07:51] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1017, y=100, z=589}) doesn't have enough leaves around top most log
+[22:07:52] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1018, y=99, z=589}) doesn't have enough leaves around top most log
+[22:07:52] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1017, y=99, z=589}) doesn't have enough leaves around top most log
+[22:07:53] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1018, y=98, z=589}) doesn't have enough leaves around top most log
+[22:07:53] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1018, y=98, z=588}) doesn't have enough leaves around top most log
+[22:07:54] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1017, y=98, z=589}) doesn't have enough leaves around top most log
+[22:07:54] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-1017, y=98, z=588}) doesn't have enough leaves around top most log
