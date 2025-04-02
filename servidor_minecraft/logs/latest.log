@@ -320,3 +320,6 @@
 [21:14:07] [Server thread/INFO]: messirve was slain by Shulker
 [21:14:07] [Server thread/INFO]: messirve lost connection: messirve died
 [21:14:07] [Server thread/INFO]: messirve left the game
+[21:31:53] [Server thread/WARN]: FxxkingPanda23 moved wrongly!
+[21:32:48] [Server thread/INFO]: Villager class_1646['Villager'/308711, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[21:35:26] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-765, y=64, z=875}) doesn't have enough leaves around top most log
