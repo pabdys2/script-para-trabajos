@@ -417,3 +417,5 @@
 [22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 65, 902]
 [22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 66, 902]
 [22:18:48] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Survival Mode]
+[22:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[22:29:20] [Server thread/INFO]: Villager class_1646['Villager'/539020, l='ServerLevel[world]', x=-830.30, y=60.00, z=785.30] died, message: 'Villager was squished too much'
