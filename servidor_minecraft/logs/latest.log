@@ -1,5 +1,5 @@
-[17:02:32] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[17:02:33] [main/INFO]: Loading 108 mods:
+[15:32:33] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[15:32:34] [main/INFO]: Loading 108 mods:
 	- carpet 1.4.161+v241203
 	- carpet-ams-addition 2.57.0
 	   |-- annotationtoolbox 0.3
@@ -129,293 +129,93 @@
 	- minecraft 1.21.4
 	- skinrestorer 2.2.1+1.21-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[17:02:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:02:33] [main/INFO]: Compatibility level set to JAVA_17
-[17:02:33] [main/INFO]: Compatibility level set to JAVA_21
-[17:02:37] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:03:01] [main/INFO]: Loading Collective version 7.94.
-[17:03:01] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.4+build.8-v2.tiny loaded
-[17:03:02] [main/WARN]: en_ is not a supported Floodgate language.
-[17:03:04] [main/INFO]: Loading extensions...
-[17:03:04] [main/INFO]: Loaded 0 extension(s)
-[17:03:05] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
-[17:03:05] [main/INFO]: Carpet AMS Addition v2.57.0 loaded! (Total rules: 141)
-[17:03:05] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[17:03:05] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[17:03:05] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[17:03:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:03:13] [main/INFO]: Loaded 1370 recipes
-[17:03:13] [main/INFO]: Loaded 1481 advancements
-[17:03:14] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.429 ms
-[17:03:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[17:03:14] [Server thread/INFO]: Loading properties
-[17:03:14] [Server thread/INFO]: Default game type: SURVIVAL
-[17:03:14] [Server thread/INFO]: Generating keypair
-[17:03:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:03:14] [Server thread/INFO]: Using epoll channel type
-[17:03:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:03:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:03:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:03:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:03:15] [Server thread/INFO]: Preparing level "world"
-[17:03:15] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
-[17:03:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:29] [Server thread/INFO]: Time elapsed: 13044 ms
-[17:03:30] [Server thread/INFO]: Loaded 1370 recipes
-[17:03:30] [Server thread/INFO]: Loaded 1481 advancements
-[17:03:30] [Server thread/INFO]: Done (15.781s)! For help, type "help"
-[17:03:31] [Server thread/INFO]: Took 40ms to boot Floodgate
-[17:03:31] [Server thread/INFO]: ******************************************
-[17:03:31] [Server thread/INFO]: 
-[17:03:31] [Server thread/INFO]: Loading Geyser version 2.6.1-b786 (git-master-32160c5)
-[17:03:31] [Server thread/INFO]: 
-[17:03:31] [Server thread/INFO]: ******************************************
-[17:03:37] [epollEventLoopGroup-3-1/INFO]: Started Geyser on UDP port 19132
-[17:03:38] [Server thread/INFO]: Done (7.141s)! Run /geyser help for help!
-[17:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7426ms or 148 ticks behind
-[17:03:38] [Thread-13/INFO]: [32;1mThere's a new Geyser update available to support Bedrock version 1.21.70. Download it here: [34;1m[4mhttps://geysermc.org/download[0m
-[17:04:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:05:06] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52887] logged in with entity id 12 at (103.10011069437451, 44.0, -4.300000011920929)
-[17:05:06] [Server thread/INFO]: FxxkingPanda23 joined the game
-[17:09:22] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Creative Mode]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 103, 48, 0]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 44, 0]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 45, 0]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 46, 0]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Successfully filled 2 block(s)]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 45, 1]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 46, 1]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 44, 2]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 45, 2]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 46, 2]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 47, 2]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 103, 45, -2]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 103, 45, -1]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 45, -3]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 46, -3]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 44, -2]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 45, -2]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 46, -2]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 44, -1]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 45, -1]
-[17:09:40] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 104, 46, -1]
-[17:09:56] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 98, 44, 4]
-[17:09:56] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 98, 45, 4]
-[17:09:56] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 98, 46, 4]
-[17:09:56] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 98, 47, 4]
-[17:09:56] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 99, 45, 4]
-[17:09:56] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 99, 46, 4]
-[17:09:56] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 100, 48, 3]
-[17:09:56] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 100, 44, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 100, 45, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 100, 46, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Successfully filled 2 block(s)]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 101, 45, 3]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 101, 44, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 101, 45, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 101, 46, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 102, 45, 3]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 102, 44, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 102, 45, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 102, 46, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 103, 45, 4]
-[17:09:57] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 103, 46, 4]
-[17:14:43] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[17:14:43] [Server thread/INFO]: FxxkingPanda23 left the game
-[17:15:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:16:20] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:53112] logged in with entity id 693 at (101.62197725289722, 45.634190965497964, -3.0529814276008165)
-[17:16:20] [Server thread/INFO]: FxxkingPanda23 joined the game
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 44, 0]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 45, 0]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 46, 0]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Successfully filled 2 block(s)]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 44, 1]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 45, 1]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 46, 1]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 44, 2]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 45, 2]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 46, 2]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 45, 3]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 46, 3]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 97, 48, 0]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 97, 45, 1]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 97, 45, 2]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 44, -2]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 45, -2]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 46, -2]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 47, -2]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 45, -1]
-[17:16:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 96, 46, -1]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 97, 45, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 97, 46, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 98, 44, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 98, 45, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 98, 46, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 98, 45, -3]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 99, 44, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 99, 45, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 99, 46, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 99, 45, -3]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 100, 44, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 100, 45, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 100, 46, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Successfully filled 2 block(s)]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 100, 48, -3]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 101, 45, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 101, 46, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 102, 44, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 102, 45, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 102, 46, -4]
-[17:17:45] [Server thread/INFO]: [FxxkingPanda23: Changed the block at 102, 47, -4]
-[17:24:16] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[17:24:16] [Server thread/INFO]: FxxkingPanda23 left the game
-[17:25:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:30:15] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:53332] logged in with entity id 1230 at (101.47967089298314, 46.38272154496954, -5.699999988079071)
-[17:30:15] [Server thread/INFO]: FxxkingPanda23 joined the game
-[17:33:24] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Survival Mode]
-[18:09:21] [Server thread/INFO]: Kaka[local] logged in with entity id 10843 at (-1247.1282172133601, -15.0, 2307.6892325579224)
-[18:09:21] [Server thread/INFO]: Kaka joined the game
-[18:09:59] [Server thread/INFO]: [FxxkingPanda23: Gave 8 [Andesite Slab] to FxxkingPanda23]
-[18:10:18] [Server thread/INFO]: Kaka lost connection: Killed
-[18:10:18] [Server thread/INFO]: Kaka left the game
-[18:11:43] [Server thread/INFO]: Kaka[local] logged in with entity id 14151 at (-1247.260988373483, -15.0, 2307.933671685827)
-[18:11:43] [Server thread/INFO]: Kaka joined the game
-[20:38:24] [Server thread/INFO]: Messi[local] logged in with entity id 298070 at (100.44489185568914, 49.0, 1.5254251864260437)
-[20:38:24] [Server thread/INFO]: Messi joined the game
-[20:38:24] [Server thread/INFO]: Messi has made the advancement [The End?]
-[20:40:59] [Server thread/INFO]: messirve[local] logged in with entity id 304124 at (481.6527676714845, 86.1875, 1309.699999988079)
-[20:40:59] [Server thread/INFO]: messirve joined the game
-[20:40:59] [Server thread/INFO]: messirve has made the advancement [The End?]
-[20:41:11] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Creative Mode]
-[20:41:12] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Spectator Mode]
-[20:41:16] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Survival Mode]
-[20:43:10] [Server thread/WARN]: FxxkingPanda23 moved too quickly! 13.51437491707702,11.242219518051627,-6.443666459187625
-[20:44:32] [Server thread/INFO]: [FxxkingPanda23: Gamerule playersSleepingPercentage is now set to: 0]
-[21:14:07] [Server thread/INFO]: messirve was slain by Shulker
-[21:14:07] [Server thread/INFO]: messirve lost connection: messirve died
-[21:14:07] [Server thread/INFO]: messirve left the game
-[21:31:53] [Server thread/WARN]: FxxkingPanda23 moved wrongly!
-[21:32:48] [Server thread/INFO]: Villager class_1646['Villager'/308711, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
-[21:35:26] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-765, y=64, z=875}) doesn't have enough leaves around top most log
-[21:50:00] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-765, y=64, z=875}) doesn't have enough leaves around top most log
-[22:09:27] [Server thread/INFO]: messirve[local] logged in with entity id 528418 at (481.69999998807907, 86.1875, 1309.6897038734073)
-[22:09:27] [Server thread/INFO]: messirve joined the game
-[22:10:22] [Server thread/INFO]: messirve was slain by FxxkingPanda23
-[22:10:22] [Server thread/INFO]: messirve lost connection: messirve died
-[22:10:22] [Server thread/INFO]: messirve left the game
-[22:10:35] [Server thread/INFO]: messirve[local] logged in with entity id 531494 at (481.57577865783617, 86.0, 1309.699999988079)
-[22:10:35] [Server thread/INFO]: messirve joined the game
-[22:17:07] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Creative Mode]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 64, 897]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 65, 897]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 66, 897]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 67, 897]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 65, 898]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 66, 898]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 64, 899]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 65, 899]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 66, 899]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Successfully filled 2 block(s)]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 64, 900]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 65, 900]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 66, 900]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 64, 901]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 65, 901]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 66, 901]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 65, 902]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -871, 66, 902]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -870, 68, 899]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -870, 65, 900]
-[22:17:31] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -870, 65, 901]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 64, 897]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 65, 897]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 66, 897]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 67, 897]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 65, 898]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 66, 898]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 64, 899]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 65, 899]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 66, 899]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Successfully filled 2 block(s)]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 64, 900]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 65, 900]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 66, 900]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 64, 901]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 65, 901]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 66, 901]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 65, 902]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -869, 66, 902]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -868, 68, 899]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -868, 65, 900]
-[22:18:02] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -868, 65, 901]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 64, 897]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 65, 897]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 66, 897]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 67, 897]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 65, 898]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 66, 898]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 64, 899]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 65, 899]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 66, 899]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Successfully filled 2 block(s)]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 64, 900]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 65, 900]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 66, 900]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 64, 901]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 65, 901]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 66, 901]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 65, 902]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -867, 66, 902]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -866, 68, 899]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -866, 65, 900]
-[22:18:16] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -866, 65, 901]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -864, 68, 899]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -864, 65, 900]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -864, 65, 901]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 64, 897]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 65, 897]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 66, 897]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 67, 897]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 65, 898]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 66, 898]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 64, 899]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 65, 899]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 66, 899]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Successfully filled 2 block(s)]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 64, 900]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 65, 900]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 66, 900]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 64, 901]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 65, 901]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 66, 901]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 65, 902]
-[22:18:30] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -865, 66, 902]
-[22:18:48] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Survival Mode]
-[22:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[22:29:20] [Server thread/INFO]: Villager class_1646['Villager'/539020, l='ServerLevel[world]', x=-830.30, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[15:32:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:32:35] [main/INFO]: Compatibility level set to JAVA_17
+[15:32:35] [main/INFO]: Compatibility level set to JAVA_21
+[15:32:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:33:05] [main/INFO]: Loading Collective version 7.94.
+[15:33:05] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.4+build.8-v2.tiny loaded
+[15:33:06] [main/WARN]: en_ is not a supported Floodgate language.
+[15:33:08] [main/INFO]: Loading extensions...
+[15:33:08] [main/INFO]: Loaded 0 extension(s)
+[15:33:09] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
+[15:33:09] [main/INFO]: Carpet AMS Addition v2.57.0 loaded! (Total rules: 141)
+[15:33:09] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[15:33:09] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[15:33:09] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[15:33:11] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:33:18] [main/INFO]: Loaded 1370 recipes
+[15:33:18] [main/INFO]: Loaded 1481 advancements
+[15:33:18] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.539 ms
+[15:33:18] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:33:18] [Server thread/INFO]: Loading properties
+[15:33:18] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:18] [Server thread/INFO]: Generating keypair
+[15:33:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:33:19] [Server thread/INFO]: Using epoll channel type
+[15:33:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:33:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:33:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:33:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:33:19] [Server thread/INFO]: Preparing level "world"
+[15:33:19] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
+[15:33:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:33:34] [Server thread/INFO]: Time elapsed: 14008 ms
+[15:33:36] [Server thread/INFO]: Loaded 1370 recipes
+[15:33:36] [Server thread/INFO]: Loaded 1481 advancements
+[15:33:36] [Server thread/INFO]: Done (16.504s)! For help, type "help"
+[15:33:36] [Server thread/INFO]: Took 45ms to boot Floodgate
+[15:33:36] [Server thread/INFO]: ******************************************
+[15:33:36] [Server thread/INFO]: 
+[15:33:36] [Server thread/INFO]: Loading Geyser version 2.6.1-b786 (git-master-32160c5)
+[15:33:36] [Server thread/INFO]: 
+[15:33:36] [Server thread/INFO]: ******************************************
+[15:33:43] [Server thread/INFO]: Started Geyser on UDP port 19132
+[15:33:44] [Server thread/INFO]: Done (7.468s)! Run /geyser help for help!
+[15:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7827ms or 156 ticks behind
+[15:33:44] [Thread-12/INFO]: [32;1mThere's a new Geyser update available to support Bedrock version 1.21.70. Download it here: [34;1m[4mhttps://geysermc.org/download[0m
+[15:34:02] [epollEventLoopGroup-4-1/INFO]: Player connected with username PANDA ASHH
+[15:34:02] [localSession-7-1/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
+[15:34:02] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
+[15:34:02] [Thread-20/WARN]: Failed to fetch skin: not found
+[15:34:04] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 12 at (-832.54346, 64.0, 853.938)
+[15:34:04] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
+[15:34:04] [Server thread/INFO]: .PANDA_ASHH joined the game
+[15:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[15:34:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37253ms or 745 ticks behind
+[15:35:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10253ms or 205 ticks behind
+[15:42:21] [Server thread/INFO]: .PANDA_ASHH fell from a high place
+[15:47:01] [Server thread/INFO]: .PANDA_ASHH has made the advancement [The End?]
+[15:48:43] [localSession-7-1/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
+[15:48:43] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
+[15:48:43] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
+[15:48:43] [Server thread/INFO]: .PANDA_ASHH left the game
+[15:49:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
