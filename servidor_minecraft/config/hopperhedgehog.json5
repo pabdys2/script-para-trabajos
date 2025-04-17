@@ -1,0 +1,12 @@
+{
+	"HopperFunctions": true,
+	"ItemDispenserFunctions": false,
+	"CrafterInputOverride": false,
+	"TransferSpeed": 8,
+	"InputAmount": 1,
+	"OutputAmount": 1,
+	"DispenseAmount": 1,
+	"CrafterInputAmountOverride": 1,
+	"CrafterInputSpeedOverride": 6,
+	"DisableCrafterDelay": false
+}
