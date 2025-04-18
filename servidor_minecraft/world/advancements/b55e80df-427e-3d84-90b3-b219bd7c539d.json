@@ -6515,12 +6515,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-04-17 15:07:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-17 15:06:34 +0000"
@@ -6548,6 +6542,12 @@
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2025-04-17 15:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-17 15:07:12 +0000"
     },
     "done": true
   },
