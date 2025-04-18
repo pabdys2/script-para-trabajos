@@ -224,3 +224,4 @@
 [21:51:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [21:51:54] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52651] logged in with entity id 19119 at (-587.324741115392, 121.0, 797.5334369211041)
 [21:51:54] [Server thread/INFO]: FxxkingPanda23 joined the game
+[22:16:33] [Server thread/INFO]: Villager class_1646['Villager'/19389, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
