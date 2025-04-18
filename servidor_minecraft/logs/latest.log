@@ -225,3 +225,10 @@
 [21:51:54] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52651] logged in with entity id 19119 at (-587.324741115392, 121.0, 797.5334369211041)
 [21:51:54] [Server thread/INFO]: FxxkingPanda23 joined the game
 [22:16:33] [Server thread/INFO]: Villager class_1646['Villager'/19389, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[22:38:37] [Server thread/INFO]: Jef[local] logged in with entity id 42057 at (-566.4152522338736, 238.0, 822.3184002618485)
+[22:38:37] [Server thread/INFO]: Jef joined the game
+[22:43:19] [Server thread/WARN]: Ignored advancement 'ams:root' in progress file ./world/advancements/2da3cea5-05f6-48a7-b247-b771ef96e207.json - it doesn't exist anymore?
+[22:43:19] [Server thread/INFO]: jimmygay[local] logged in with entity id 43636 at (-564.5988089980135, 238.0, 822.6999999880791)
+[22:43:19] [Server thread/INFO]: jimmygay joined the game
+[22:43:38] [Server thread/INFO]: Steve[local] logged in with entity id 43733 at (-566.6999999880791, 238.0, 820.3000000119209)
+[22:43:38] [Server thread/INFO]: Steve joined the game
