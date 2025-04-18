@@ -210,3 +210,8 @@
 [21:12:03] [Server thread/INFO]: FxxkingPanda23 joined the game
 [21:12:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
 [21:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
+[21:27:27] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
+[21:27:27] [Server thread/INFO]: FxxkingPanda23 left the game
+[21:28:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:28:59] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52463] logged in with entity id 7856 at (-581.1840034683422, 123.0, 785.4726699932487)
+[21:28:59] [Server thread/INFO]: FxxkingPanda23 joined the game
