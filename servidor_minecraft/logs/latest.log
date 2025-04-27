@@ -1,2 +1,8 @@
 [00:04:07] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
 [00:04:07] [Server thread/INFO]: FxxkingPanda23 left the game
+[00:07:16] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:53650] logged in with entity id 77858 at (-865.5, 80.0, 825.5)
+[00:07:16] [Server thread/INFO]: FxxkingPanda23 joined the game
+[00:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[00:07:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4569ms or 91 ticks behind
+[00:12:30] [Server thread/INFO]: Villager class_1646['Villager'/24, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[00:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20437ms or 408 ticks behind
