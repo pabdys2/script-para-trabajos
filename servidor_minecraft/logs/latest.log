@@ -217,3 +217,6 @@
 [16:11:04] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-2286, y=93, z=769}) doesn't have enough leaves around top most log
 [16:17:47] [Server thread/WARN]: FxxkingPanda23 moved too quickly! 17.903249240034313,1.8449193588420911,2.6855250928081205
 [17:42:01] [Server thread/INFO]: Villager class_1646['Villager'/75610, l='ServerLevel[world]', x=-830.30, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[17:49:47] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
+[17:49:47] [Server thread/INFO]: FxxkingPanda23 left the game
+[17:50:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
