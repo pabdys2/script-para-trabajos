@@ -1,104 +1,85 @@
-[20:52:26] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[20:52:29] [main/INFO]: Loading 109 mods:
-	- carpet 1.4.161+v241203
-	- carpet-ams-addition 2.57.0
+[23:47:07] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[23:47:08] [main/INFO]: Loading 98 mods:
+	- carpet 1.4.169+v250325
+	- carpet-ams-addition 2.57.1
 	   |-- annotationtoolbox 0.3
 	   |-- com_esotericsoftware_yamlbeans_yamlbeans 1.17
-	   |-- fabric-api-base 0.4.54+b47eab6b04
+	   |-- fabric-api-base 0.4.62+73a52b4b07
+	   |-- fabric-networking-api-v1 4.4.0+f3ffa98907
 	   \-- mixinextras 0.4.1
-	- carpet-extra 1.4.161
-	- carpet-tis-addition 1.65.2
-	   \-- conditional-mixin 0.6.3
-	- collective 7.94
-	- fabric-api 0.119.0+1.21.4
-	   |-- fabric-api-lookup-api-v1 1.6.86+b1caf1e904
-	   |-- fabric-biome-api-v1 15.0.6+b1c29d8e04
-	   |-- fabric-block-api-v1 1.0.31+7feeb73304
-	   |-- fabric-block-view-api-v2 1.0.20+9c49cc8c04
-	   |-- fabric-blockrenderlayer-v1 2.0.8+7feeb73304
-	   |-- fabric-client-tags-api-v1 1.1.29+20ea1e2304
-	   |-- fabric-command-api-v1 1.2.62+f71b366f04
-	   |-- fabric-command-api-v2 2.2.41+e496eb1504
-	   |-- fabric-commands-v0 0.2.79+df3654b304
-	   |-- fabric-content-registries-v0 9.1.19+25d1a67604
-	   |-- fabric-convention-tags-v1 2.1.19+7f945d5b04
-	   |-- fabric-convention-tags-v2 2.14.0+a5c5487b04
-	   |-- fabric-crash-report-info-v1 0.3.6+7feeb73304
-	   |-- fabric-data-attachment-api-v1 1.6.2+e99da0f704
-	   |-- fabric-data-generation-api-v1 22.3.0+0f4e5f5504
-	   |-- fabric-dimensions-v1 4.0.10+7feeb73304
-	   |-- fabric-entity-events-v1 2.0.15+62245bef04
-	   |-- fabric-events-interaction-v0 4.0.4+a4eebcf004
-	   |-- fabric-game-rule-api-v1 1.0.63+7d48d43904
-	   |-- fabric-item-api-v1 11.3.0+ee91fa1f04
-	   |-- fabric-item-group-api-v1 4.2.2+fcb9601404
-	   |-- fabric-key-binding-api-v1 1.0.57+7d48d43904
-	   |-- fabric-keybindings-v0 0.2.55+df3654b304
-	   |-- fabric-lifecycle-events-v1 2.5.4+bf2a60eb04
-	   |-- fabric-loot-api-v2 3.0.38+3f89f5a504
-	   |-- fabric-loot-api-v3 1.0.26+203e6b2304
-	   |-- fabric-message-api-v1 6.0.25+7feeb73304
-	   |-- fabric-model-loading-api-v1 4.3.0+ae23723504
-	   |-- fabric-networking-api-v1 4.4.0+db5e668204
-	   |-- fabric-object-builder-api-v1 18.0.14+38b0d59804
-	   |-- fabric-particles-v1 4.0.14+7feeb73304
-	   |-- fabric-recipe-api-v1 8.1.1+640e77ae04
-	   |-- fabric-registry-sync-v0 6.1.11+4a9c1ece04
-	   |-- fabric-renderer-api-v1 5.0.3+50f0feb204
-	   |-- fabric-renderer-indigo 2.0.3+50f0feb204
-	   |-- fabric-rendering-data-attachment-v1 0.3.58+73761d2e04
-	   |-- fabric-rendering-fluids-v1 3.1.19+7feeb73304
-	   |-- fabric-rendering-v1 10.2.1+0d31b09f04
-	   |-- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
-	   |-- fabric-resource-loader-v0 3.1.1+360374ac04
-	   |-- fabric-screen-api-v1 2.0.38+7feeb73304
-	   |-- fabric-screen-handler-api-v1 1.3.118+7feeb73304
-	   |-- fabric-sound-api-v1 1.0.32+7feeb73304
-	   |-- fabric-tag-api-v1 1.0.7+7d48d43904
-	   |-- fabric-transfer-api-v1 5.4.9+efa825c904
-	   \-- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
-	- fabricloader 0.16.10
+	- carpet-extra 1.4.169
+	- carpet-tis-addition 1.66.1
+	   \-- conditional-mixin 0.6.4
+	- fabric-api 0.124.0+1.21.5
+	   |-- fabric-api-lookup-api-v1 1.6.96+86c3a9f149
+	   |-- fabric-biome-api-v1 16.0.7+2dd063df49
+	   |-- fabric-block-api-v1 1.0.37+86c3a9f149
+	   |-- fabric-block-view-api-v2 1.0.26+aa6d566c49
+	   |-- fabric-blockrenderlayer-v1 2.0.16+86c3a9f149
+	   |-- fabric-client-tags-api-v1 1.1.37+86c3a9f149
+	   |-- fabric-command-api-v1 1.2.70+f71b366f49
+	   |-- fabric-command-api-v2 2.2.49+73a52b4b49
+	   |-- fabric-commands-v0 0.2.87+df3654b349
+	   |-- fabric-content-registries-v0 10.0.14+3e6c1f7d49
+	   |-- fabric-convention-tags-v1 2.1.30+7f945d5b49
+	   |-- fabric-convention-tags-v2 2.14.4+fca633a049
+	   |-- fabric-crash-report-info-v1 0.3.12+86c3a9f149
+	   |-- fabric-data-attachment-api-v1 1.8.1+7d6345b349
+	   |-- fabric-data-generation-api-v1 22.4.0+ea72995749
+	   |-- fabric-dimensions-v1 4.0.17+3e6c1f7d49
+	   |-- fabric-entity-events-v1 2.0.25+27c1078f49
+	   |-- fabric-events-interaction-v0 4.0.13+73a52b4b49
+	   |-- fabric-game-rule-api-v1 1.0.70+c327076a49
+	   |-- fabric-item-api-v1 11.4.1+e46fd76a49
+	   |-- fabric-item-group-api-v1 4.2.9+3459fc6149
+	   |-- fabric-key-binding-api-v1 1.0.63+ecf51cdc49
+	   |-- fabric-keybindings-v0 0.2.61+df3654b349
+	   |-- fabric-lifecycle-events-v1 2.6.0+230071a049
+	   |-- fabric-loot-api-v2 3.0.48+3f89f5a549
+	   |-- fabric-loot-api-v3 1.0.36+86c3a9f149
+	   |-- fabric-message-api-v1 6.0.33+86c3a9f149
+	   |-- fabric-model-loading-api-v1 5.2.0+c982b95149
+	   |-- fabric-object-builder-api-v1 21.1.0+b8d6ba7049
+	   |-- fabric-particles-v1 4.1.1+112e550e49
+	   |-- fabric-recipe-api-v1 8.1.7+3235ab3249
+	   |-- fabric-registry-sync-v0 6.1.20+b556383249
+	   |-- fabric-renderer-api-v1 6.0.2+c982b95149
+	   |-- fabric-renderer-indigo 3.0.3+3e6c1f7d49
+	   |-- fabric-rendering-data-attachment-v1 0.3.64+73761d2e49
+	   |-- fabric-rendering-fluids-v1 3.1.27+86c3a9f149
+	   |-- fabric-rendering-v1 11.1.11+5490746649
+	   |-- fabric-resource-conditions-api-v1 5.0.21+73a52b4b49
+	   |-- fabric-resource-loader-v0 3.1.7+847e5f5c49
+	   |-- fabric-screen-api-v1 2.0.46+86c3a9f149
+	   |-- fabric-screen-handler-api-v1 1.3.127+c327076a49
+	   |-- fabric-sound-api-v1 1.0.38+86c3a9f149
+	   |-- fabric-tag-api-v1 1.0.17+ecf51cdc49
+	   |-- fabric-transfer-api-v1 5.4.24+7b20cbb049
+	   \-- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
+	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
-	- fallingtree 1.21.4.7
-	- floodgate 2.2.4-SNAPSHOT
-	   |-- aopalliance_aopalliance 1.0
+	- fallingtree 1.21.5.1
+	- geyser-fabric 2.7.1-SNAPSHOT
 	   |-- cloud 2.0.0-beta.10
 	   |    |-- io_leangen_geantyref_geantyref 1.3.15
 	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.10
 	   |    |-- org_incendo_cloud-core 2.0.0
 	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.10
 	   |    \-- org_incendo_cloud-services 2.0.0
-	   |-- com_google_guava_failureaccess 1.0.1
-	   |-- fabric-permissions-api-v0 0.3.3
-	   |-- jakarta_inject_jakarta_inject-api 2.0.1
-	   |-- javax_inject_javax_inject 1
-	   |-- org_geysermc_cumulus_cumulus 1.1.2
-	   |-- org_geysermc_event_events 1.1-SNAPSHOT
-	   |-- org_geysermc_geyser_common_unshaded 2.2.1-SNAPSHOT
-	   |-- org_java-websocket_java-websocket 1.5.2
-	   \-- org_lanternpowered_lmbda 2.0.0
-	- geyser-fabric 2.6.2-SNAPSHOT
-	   |-- cloud 2.0.0-beta.10
-	   |    |-- io_leangen_geantyref_geantyref 1.3.15
-	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.10
-	   |    |-- org_incendo_cloud-core 2.0.0
-	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.10
-	   |    \-- org_incendo_cloud-services 2.0.0
-	   |-- com_fasterxml_jackson_core_jackson-annotations 2.17.0
-	   |-- com_fasterxml_jackson_core_jackson-core 2.17.0
-	   |-- com_fasterxml_jackson_core_jackson-databind 2.17.0
-	   |-- com_fasterxml_jackson_dataformat_jackson-dataformat-yaml 2.17.0
+	   |-- com_fasterxml_jackson_core_jackson-annotations 2.18.0
+	   |-- com_fasterxml_jackson_core_jackson-core 2.18.0
+	   |-- com_fasterxml_jackson_core_jackson-databind 2.18.0
+	   |-- com_fasterxml_jackson_dataformat_jackson-dataformat-yaml 2.18.0
 	   |-- com_google_errorprone_error_prone_annotations 2.27.0
 	   |-- com_nukkitx_natives 1.0.3
 	   |-- fabric-permissions-api-v0 0.3.3
-	   |-- io_airlift_aircompressor 0.25
+	   |-- io_airlift_aircompressor 0.27
 	   |-- io_jsonwebtoken_jjwt-api 0.12.6
 	   |-- io_jsonwebtoken_jjwt-gson 0.12.6
 	   |-- io_jsonwebtoken_jjwt-impl 0.12.6
 	   |-- io_netty_netty-codec-dns 4.1.107
 	   |-- io_netty_netty-codec-haproxy 4.1.107
 	   |-- io_netty_netty-resolver-dns-classes-macos 4.1.107
-	   |-- net_bytebuddy_byte-buddy 1.14.9
 	   |-- net_jodah_expiringmap 0.5.10
 	   |-- net_kyori_adventure-api 4.17.0
 	   |-- net_kyori_adventure-key 4.17.0
@@ -117,151 +98,82 @@
 	   |-- org_cloudburstmc_math_api 2.0
 	   |-- org_cloudburstmc_math_immutable 2.0
 	   |-- org_cloudburstmc_nbt 3.0.3
-	   |-- org_geysermc_api_base-api 1.0.1
+	   |-- org_geysermc_api_base-api 1.0.2
 	   |-- org_geysermc_cumulus_cumulus 1.1.2
 	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_java-websocket_java-websocket 1.5.1
 	   |-- org_lanternpowered_lmbda 2.0.0
 	   \-- org_yaml_snakeyaml 2.2
-	- infinitetrading 4.6
-	- inventorymanagement 1.6.0
 	- java 21
 	- merenc 4.2
-	- minecraft 1.21.4
-	- servux 0.5.3-sakura.1
-	   \-- fabric-permissions-api-v0 0.3.3
-	- skinrestorer 2.2.1+1.21-fabric
+	- minecraft 1.21.5
+	- skinrestorer 2.3.0+1.21.5-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[20:52:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:52:33] [main/INFO]: Compatibility level set to JAVA_17
-[20:52:33] [main/INFO]: Compatibility level set to JAVA_21
-[20:52:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:53:06] [main/INFO]: Loading Collective version 7.94.
-[20:53:06] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.4+build.8-v2.tiny loaded
-[20:53:06] [main/WARN]: @Redirect conflict. Skipping carpet-extra.mixins.json:ServerPlayNetworkHandlerMixin from mod carpet-extra->@Redirect::carpetextra_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1000, already redirected by mixins.servux.json:network.MixinServerPlayNetworkHandler_EasyPlace from mod servux->@Redirect::servux$removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
-[20:53:07] [main/WARN]: en_ is not a supported Floodgate language.
-[20:53:10] [main/INFO]: Loading extensions...
-[20:53:10] [main/INFO]: Loaded 0 extension(s)
-[20:53:10] [main/INFO]: Skipping saving inventorymanagement config to file because nothing has changed.
-[20:53:11] [main/INFO]: Carpet AMS Addition v2.57.0 loaded! (Total rules: 141)
-[20:53:11] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[20:53:11] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[20:53:11] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[20:53:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:53:19] [main/INFO]: Loaded 1370 recipes
-[20:53:19] [main/INFO]: Loaded 1481 advancements
-[20:53:19] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.706 ms
-[20:53:19] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:53:19] [Server thread/INFO]: Loading properties
-[20:53:19] [Server thread/INFO]: Default game type: SURVIVAL
-[20:53:19] [Server thread/INFO]: Generating keypair
-[20:53:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:53:20] [Server thread/INFO]: Using epoll channel type
-[20:53:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:53:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:53:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:53:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:53:20] [Server thread/INFO]: Preparing level "world"
-[20:53:20] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
-[20:53:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:53:38] [Server thread/INFO]: Time elapsed: 15959 ms
-[20:53:39] [Server thread/INFO]: Loaded 1370 recipes
-[20:53:39] [Server thread/INFO]: Loaded 1481 advancements
-[20:53:40] [Server thread/INFO]: Done (19.103s)! For help, type "help"
-[20:53:40] [Server thread/INFO]: Took 42ms to boot Floodgate
-[20:53:40] [Server thread/INFO]: ******************************************
-[20:53:40] [Server thread/INFO]: 
-[20:53:40] [Server thread/INFO]: Loading Geyser version 2.6.2-b796 (git-master-3239e61)
-[20:53:40] [Server thread/INFO]: 
-[20:53:40] [Server thread/INFO]: ******************************************
-[20:53:48] [epollEventLoopGroup-3-2/INFO]: Started Geyser on UDP port 19132
-[20:53:48] [Server thread/INFO]: Done (8.497s)! Run /geyser help for help!
-[20:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8742ms or 174 ticks behind
-[20:53:48] [Thread-14/INFO]: [32;1mThere's a new Geyser update available to support Bedrock version 1.21.80. Download it here: [34;1m[4mhttps://geysermc.org/download[0m
-[20:54:07] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51147] logged in with entity id 12 at (-812.5, 63.0, 832.5)
-[20:54:07] [Server thread/INFO]: FxxkingPanda23 joined the game
-[20:54:08] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
-[20:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[20:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6495ms or 129 ticks behind
-[20:55:36] [epollEventLoopGroup-4-1/INFO]: Bedrock user with ip: /100.120.197.80 has disconnected for reason Please log into Xbox to join this server.
-[21:01:01] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[21:01:01] [Server thread/INFO]: FxxkingPanda23 left the game
-[21:01:06] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51224] logged in with entity id 3205 at (-174.10525476900295, 67.0, 3.6727900464611274)
-[21:01:06] [Server thread/INFO]: FxxkingPanda23 joined the game
-[21:01:06] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
-[21:15:59] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[21:15:59] [Server thread/INFO]: FxxkingPanda23 left the game
-[21:16:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:17:37] [epollEventLoopGroup-4-2/INFO]: Player connected with username PANDA ASHH
-[21:17:37] [localSession-7-1/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
-[21:17:38] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
-[21:17:38] [Thread-60/WARN]: Failed to fetch skin: not found
-[21:17:38] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 7261 at (-724.4944, 63.0, 842.79865)
-[21:17:38] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
-[21:17:38] [Server thread/INFO]: .PANDA_ASHH joined the game
-[21:18:03] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
-[21:18:03] [localSession-7-1/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
-[21:18:03] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
-[21:18:03] [Server thread/INFO]: .PANDA_ASHH left the game
-[21:18:59] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51484] logged in with entity id 7645 at (-131.13289741038128, 67.0, 33.78061883553865)
-[21:18:59] [Server thread/INFO]: FxxkingPanda23 joined the game
-[21:19:00] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
-[21:21:14] [epollEventLoopGroup-4-3/INFO]: Player connected with username PANDA ASHH
-[21:21:14] [localSession-7-2/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
-[21:21:14] [pool-6-thread-2/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
-[21:21:14] [Thread-70/WARN]: Failed to fetch skin: not found
-[21:21:15] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 8142 at (-728.1115, 63.0, 845.9049)
-[21:21:15] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
-[21:21:15] [Server thread/INFO]: .PANDA_ASHH joined the game
-[21:21:26] [Geyser Fabric connection thread-6-3/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
-[21:21:26] [localSession-7-2/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
-[21:21:26] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
-[21:21:26] [Server thread/INFO]: .PANDA_ASHH left the game
-[21:23:41] [epollEventLoopGroup-4-4/INFO]: Player connected with username PANDA ASHH
-[21:23:41] [localSession-7-3/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
-[21:23:41] [pool-6-thread-3/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
-[21:23:41] [Thread-85/WARN]: Failed to fetch skin: not found
-[21:23:42] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 8831 at (-728.1115, 63.0, 845.9049)
-[21:23:42] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
-[21:23:42] [Server thread/INFO]: .PANDA_ASHH joined the game
-[21:24:04] [Geyser Fabric connection thread-6-4/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
-[21:24:04] [localSession-7-3/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
-[21:24:04] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
-[21:24:04] [Server thread/INFO]: .PANDA_ASHH left the game
-[21:31:16] [epollEventLoopGroup-4-1/INFO]: Bedrock user with ip: /100.121.22.96 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51, 1.21.60 - 1.21.62, 1.21.70
-§r§aThe latest Geyser release supports this Bedrock version. A server admin can download the update at §r§9https://geysermc.org/download
-[21:31:38] [epollEventLoopGroup-4-2/INFO]: Bedrock user with ip: /100.121.22.96 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51, 1.21.60 - 1.21.62, 1.21.70
-§r§aThe latest Geyser release supports this Bedrock version. A server admin can download the update at §r§9https://geysermc.org/download
-[21:32:17] [epollEventLoopGroup-4-3/INFO]: Bedrock user with ip: /100.121.22.96 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51, 1.21.60 - 1.21.62, 1.21.70
-§r§aThe latest Geyser release supports this Bedrock version. A server admin can download the update at §r§9https://geysermc.org/download
+[23:47:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:47:09] [main/INFO]: Compatibility level set to JAVA_17
+[23:47:09] [main/INFO]: Compatibility level set to JAVA_21
+[23:47:11] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:47:29] [main/INFO]: Loading extensions...
+[23:47:29] [TISCM Mapping/INFO]: Downloading yarn mapping from https://maven.fabricmc.net/net/fabricmc/yarn/1.21.5+build.1/yarn-1.21.5+build.1-v2.jar
+[23:47:29] [main/INFO]: Loaded 0 extension(s)
+[23:47:29] [main/INFO]: Carpet AMS Addition v2.57.1 loaded! (Total rules: 140)
+[23:47:29] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[23:47:29] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[23:47:29] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[23:47:30] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.5+build.1-v2.tiny loaded
+[23:47:30] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:47:32] [main/WARN]: Missing data pack collective
+[23:47:35] [main/INFO]: Loaded 1373 recipes
+[23:47:36] [main/INFO]: Loaded 1484 advancements
+[23:47:36] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.825 ms
+[23:47:36] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[23:47:36] [Server thread/INFO]: Loading properties
+[23:47:36] [Server thread/INFO]: Default game type: SURVIVAL
+[23:47:36] [Server thread/INFO]: Generating keypair
+[23:47:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:47:37] [Server thread/INFO]: Using epoll channel type
+[23:47:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:47:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:47:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:47:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:47:37] [Server thread/INFO]: Preparing level "world"
+[23:47:37] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
+[23:47:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:47:49] [Server thread/INFO]: Time elapsed: 10905 ms
+[23:47:50] [Server thread/INFO]: Loaded 1373 recipes
+[23:47:50] [Server thread/INFO]: Loaded 1484 advancements
+[23:47:50] [Server thread/INFO]: Done (13.230s)! For help, type "help"
+[23:47:50] [Server thread/INFO]: ******************************************
+[23:47:50] [Server thread/INFO]: 
+[23:47:50] [Server thread/INFO]: Loading Geyser version 2.7.1-b833 (git-master-d0be6d9)
+[23:47:50] [Server thread/INFO]: 
+[23:47:50] [Server thread/INFO]: ******************************************
+[23:47:56] [epollEventLoopGroup-3-1/INFO]: Started Geyser on UDP port 19132
+[23:47:56] [Server thread/INFO]: Done (6.011s)! Run /geyser help for help!
+[23:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6223ms or 124 ticks behind
+[23:47:57] [Thread-14/INFO]: Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[23:47:59] [Thread-14/INFO]: Minecraft JAR has been successfully downloaded and loaded!
+[23:48:00] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:50273] logged in with entity id 23 at (-142.80667197181992, 65.0, 159.7080348486284)
+[23:48:00] [Server thread/INFO]: FxxkingPanda23 joined the game

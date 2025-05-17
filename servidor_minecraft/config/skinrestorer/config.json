@@ -1,6 +1,7 @@
 {
   "language": "en_us",
   "refreshSkinOnJoin": true,
+  "skinApplyDelayOnJoin": 0,
   "fetchSkinOnFirstJoin": true,
   "firstJoinSkinProvider": "MOJANG",
   "proxy": "",
@@ -23,13 +24,13 @@
       }
     },
     "mineskin": {
+      "apiKey": "",
       "enabled": true,
       "name": "web",
       "cache": {
         "enabled": true,
         "duration": 300
-      },
-      "apiKey": ""
+      }
     }
   }
 }
