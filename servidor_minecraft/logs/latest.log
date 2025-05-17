@@ -220,3 +220,31 @@
 [21:01:06] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51224] logged in with entity id 3205 at (-174.10525476900295, 67.0, 3.6727900464611274)
 [21:01:06] [Server thread/INFO]: FxxkingPanda23 joined the game
 [21:01:06] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
+[21:15:59] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
+[21:15:59] [Server thread/INFO]: FxxkingPanda23 left the game
+[21:16:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:17:37] [epollEventLoopGroup-4-2/INFO]: Player connected with username PANDA ASHH
+[21:17:37] [localSession-7-1/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
+[21:17:38] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
+[21:17:38] [Thread-60/WARN]: Failed to fetch skin: not found
+[21:17:38] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 7261 at (-724.4944, 63.0, 842.79865)
+[21:17:38] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
+[21:17:38] [Server thread/INFO]: .PANDA_ASHH joined the game
+[21:18:03] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
+[21:18:03] [localSession-7-1/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
+[21:18:03] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
+[21:18:03] [Server thread/INFO]: .PANDA_ASHH left the game
+[21:18:59] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51484] logged in with entity id 7645 at (-131.13289741038128, 67.0, 33.78061883553865)
+[21:18:59] [Server thread/INFO]: FxxkingPanda23 joined the game
+[21:19:00] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
+[21:21:14] [epollEventLoopGroup-4-3/INFO]: Player connected with username PANDA ASHH
+[21:21:14] [localSession-7-2/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
+[21:21:14] [pool-6-thread-2/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
+[21:21:14] [Thread-70/WARN]: Failed to fetch skin: not found
+[21:21:15] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 8142 at (-728.1115, 63.0, 845.9049)
+[21:21:15] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
+[21:21:15] [Server thread/INFO]: .PANDA_ASHH joined the game
+[21:21:26] [Geyser Fabric connection thread-6-3/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
+[21:21:26] [localSession-7-2/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
+[21:21:26] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
+[21:21:26] [Server thread/INFO]: .PANDA_ASHH left the game
