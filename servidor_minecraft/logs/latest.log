@@ -248,3 +248,20 @@
 [21:21:26] [localSession-7-2/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
 [21:21:26] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
 [21:21:26] [Server thread/INFO]: .PANDA_ASHH left the game
+[21:23:41] [epollEventLoopGroup-4-4/INFO]: Player connected with username PANDA ASHH
+[21:23:41] [localSession-7-3/INFO]: PANDA ASHH (logged in as: PANDA_ASHH) has connected to the Java server
+[21:23:41] [pool-6-thread-3/INFO]: Floodgate player who is logged in as .PANDA_ASHH 00000000-0000-0000-0009-01f4eaaf5954 joined
+[21:23:41] [Thread-85/WARN]: Failed to fetch skin: not found
+[21:23:42] [Server thread/INFO]: .PANDA_ASHH[/100.77.21.83:0] logged in with entity id 8831 at (-728.1115, 63.0, 845.9049)
+[21:23:42] [Server thread/INFO]: Floodgate player logged in as .PANDA_ASHH joined (UUID: 00000000-0000-0000-0009-01f4eaaf5954)
+[21:23:42] [Server thread/INFO]: .PANDA_ASHH joined the game
+[21:24:04] [Geyser Fabric connection thread-6-4/INFO]: Floodgate player logged in as .PANDA_ASHH disconnected
+[21:24:04] [localSession-7-3/INFO]: PANDA ASHH has disconnected from the Java server because of Bedrock client disconnected
+[21:24:04] [Server thread/INFO]: .PANDA_ASHH lost connection: Disconnected
+[21:24:04] [Server thread/INFO]: .PANDA_ASHH left the game
+[21:31:16] [epollEventLoopGroup-4-1/INFO]: Bedrock user with ip: /100.121.22.96 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51, 1.21.60 - 1.21.62, 1.21.70
+§r§aThe latest Geyser release supports this Bedrock version. A server admin can download the update at §r§9https://geysermc.org/download
+[21:31:38] [epollEventLoopGroup-4-2/INFO]: Bedrock user with ip: /100.121.22.96 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51, 1.21.60 - 1.21.62, 1.21.70
+§r§aThe latest Geyser release supports this Bedrock version. A server admin can download the update at §r§9https://geysermc.org/download
+[21:32:17] [epollEventLoopGroup-4-3/INFO]: Bedrock user with ip: /100.121.22.96 has disconnected for reason Outdated Geyser proxy! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51, 1.21.60 - 1.21.62, 1.21.70
+§r§aThe latest Geyser release supports this Bedrock version. A server admin can download the update at §r§9https://geysermc.org/download
