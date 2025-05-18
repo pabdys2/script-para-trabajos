@@ -188,3 +188,52 @@
 [18:03:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [18:04:08] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:53517] logged in with entity id 13 at (-588.9794756492166, 123.0, 784.7974040168034)
 [18:04:08] [Server thread/INFO]: FxxkingPanda23 joined the game
+[18:12:00] [epollEventLoopGroup-4-1/INFO]: Player connected with username FILI SIUU
+[18:12:00] [localSession-7-1/INFO]: FILI SIUU (logged in as: FILI_SIUU) has connected to the Java server
+[18:12:01] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .FILI_SIUU 00000000-0000-0000-0009-01fc0c84f21e joined
+[18:12:01] [Thread-33/WARN]: Failed to fetch skin: not found
+[18:12:01] [Server thread/INFO]: .FILI_SIUU[/100.121.22.96:0] logged in with entity id 2209 at (-929.26697, 64.0, 823.7365)
+[18:12:01] [Server thread/INFO]: Floodgate player logged in as .FILI_SIUU joined (UUID: 00000000-0000-0000-0009-01fc0c84f21e)
+[18:12:01] [Server thread/INFO]: .FILI_SIUU joined the game
+[18:14:02] [Server thread/INFO]: Villager class_1646['Villager'/365, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[18:16:47] [Server thread/INFO]: Tree reached max size of 100
+[18:16:49] [Server thread/INFO]: Tree reached max size of 100
+[18:16:49] [Server thread/INFO]: Tree reached max size of 100
+[18:16:50] [Server thread/INFO]: Tree reached max size of 100
+[18:16:50] [Server thread/INFO]: Tree reached max size of 100
+[18:16:51] [Server thread/INFO]: Tree reached max size of 100
+[18:16:51] [Server thread/INFO]: Tree reached max size of 100
+[18:16:52] [Server thread/INFO]: Tree reached max size of 100
+[18:18:06] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-745, y=81, z=872}) doesn't have enough leaves around top most log
+[18:19:39] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-761, y=64, z=886}) doesn't have enough leaves around top most log
+[18:19:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=913} class_2338{x=-761, y=65, z=914}
+[18:19:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=915} class_2338{x=-761, y=65, z=916}
+[18:19:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=914} class_2338{x=-761, y=65, z=917}
+[18:19:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=918} class_2338{x=-761, y=65, z=919}
+[18:19:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=925} class_2338{x=-761, y=65, z=926}
+[18:20:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=938} class_2338{x=-761, y=65, z=939}
+[18:20:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=943} class_2338{x=-761, y=65, z=944}
+[18:20:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=957} class_2338{x=-761, y=65, z=958}
+[18:20:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=961} class_2338{x=-761, y=65, z=962}
+[18:20:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-761, y=65, z=967} class_2338{x=-761, y=65, z=968}
+[18:20:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=964} class_2338{x=-764, y=65, z=963}
+[18:20:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=962} class_2338{x=-764, y=65, z=961}
+[18:20:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=959} class_2338{x=-764, y=65, z=958}
+[18:20:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=956} class_2338{x=-764, y=65, z=955}
+[18:20:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=953} class_2338{x=-764, y=65, z=951}
+[18:20:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=952} class_2338{x=-764, y=65, z=950}
+[18:20:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=943} class_2338{x=-764, y=65, z=942}
+[18:20:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=944} class_2338{x=-764, y=65, z=941}
+[18:20:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=929} class_2338{x=-764, y=65, z=928}
+[18:20:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=930} class_2338{x=-764, y=65, z=927}
+[18:20:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=924} class_2338{x=-764, y=65, z=923}
+[18:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=925} class_2338{x=-764, y=65, z=922}
+[18:20:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=922} class_2338{x=-764, y=65, z=921}
+[18:20:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-763, y=65, z=919} class_2338{x=-764, y=65, z=918}
+[18:20:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-764, y=65, z=916} class_2338{x=-764, y=65, z=915}
+[18:20:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-763, y=65, z=910} class_2338{x=-763, y=65, z=909}
+[18:20:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-763, y=65, z=905} class_2338{x=-763, y=65, z=904}
+[18:20:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-763, y=65, z=895} class_2338{x=-764, y=65, z=894}
+[18:21:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-766, y=65, z=914} class_2338{x=-766, y=65, z=913}
+[18:21:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-765, y=65, z=909} class_2338{x=-765, y=65, z=908}
+[18:21:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-763, y=65, z=887} class_2338{x=-763, y=65, z=886}
