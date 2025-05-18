@@ -1,5 +1,5 @@
-[15:15:56] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[15:15:57] [main/INFO]: Loading 104 mods:
+[18:01:45] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[18:01:45] [main/INFO]: Loading 104 mods:
 	- carpet 1.4.169+v250325
 	- carpet-ams-addition 2.57.1
 	   |-- annotationtoolbox 0.3
@@ -125,311 +125,66 @@
 	- minecraft 1.21.5
 	- skinrestorer 2.3.0+1.21.5-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[15:15:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:15:57] [main/INFO]: Compatibility level set to JAVA_17
-[15:15:57] [main/INFO]: Compatibility level set to JAVA_21
-[15:15:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15:16:14] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.5+build.1-v2.tiny loaded
-[15:16:15] [main/WARN]: en_ is not a supported Floodgate language.
-[15:16:16] [main/INFO]: Loading extensions...
-[15:16:16] [main/INFO]: Loaded 0 extension(s)
-[15:16:16] [main/INFO]: Carpet AMS Addition v2.57.1 loaded! (Total rules: 140)
-[15:16:16] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[15:16:16] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[15:16:16] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[15:16:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:16:21] [main/INFO]: Loaded 1373 recipes
-[15:16:21] [main/INFO]: Loaded 1484 advancements
-[15:16:21] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.664 ms
-[15:16:21] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[15:16:21] [Server thread/INFO]: Loading properties
-[15:16:21] [Server thread/INFO]: Default game type: SURVIVAL
-[15:16:21] [Server thread/INFO]: Generating keypair
-[15:16:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:16:21] [Server thread/INFO]: Using epoll channel type
-[15:16:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:16:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:16:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:16:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:16:21] [Server thread/INFO]: Preparing level "world"
-[15:16:21] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
-[15:16:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:16:32] [Server thread/INFO]: Time elapsed: 8875 ms
-[15:16:34] [Server thread/INFO]: Loaded 1373 recipes
-[15:16:34] [Server thread/INFO]: Loaded 1484 advancements
-[15:16:34] [Server thread/INFO]: Done (12.653s)! For help, type "help"
-[15:16:34] [Server thread/INFO]: Took 31ms to boot Floodgate
-[15:16:34] [Server thread/INFO]: ******************************************
-[15:16:34] [Server thread/INFO]: 
-[15:16:34] [Server thread/INFO]: Loading Geyser version 2.7.1-b833 (git-master-d0be6d9)
-[15:16:34] [Server thread/INFO]: 
-[15:16:34] [Server thread/INFO]: ******************************************
-[15:16:40] [epollEventLoopGroup-3-2/INFO]: Started Geyser on UDP port 19132
-[15:16:40] [Server thread/INFO]: Done (5.626s)! Run /geyser help for help!
-[15:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5933ms or 118 ticks behind
-[15:16:56] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:51216] logged in with entity id 15 at (-812.970549935978, 68.5, 832.9225908381064)
-[15:16:56] [Server thread/INFO]: FxxkingPanda23 joined the game
-[15:17:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
-[15:23:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-45, y=18, z=28} class_2338{x=-45, y=16, z=29}
-[15:23:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-45, y=18, z=28} class_2338{x=-45, y=19, z=30}
-[15:23:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-45, y=18, z=28} class_2338{x=-45, y=18, z=29}
-[15:30:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=14, z=-191} class_2338{x=-33, y=14, z=-192}
-[15:30:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=14, z=-191} class_2338{x=-33, y=14, z=-192}
-[15:30:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=16, z=-192} class_2338{x=-33, y=16, z=-193}
-[15:32:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-39, y=14, z=-238} class_2338{x=-39, y=13, z=-240}
-[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-37, y=20, z=-300} class_2338{x=-38, y=19, z=-313}
-[15:35:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-38, y=19, z=-325} class_2338{x=-39, y=20, z=-325}
-[15:37:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-40, y=14, z=-347} class_2338{x=-36, y=16, z=-349}
-[15:45:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=14, z=-628} class_2338{x=-37, y=14, z=-628}
-[15:45:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=14, z=-628} class_2338{x=-37, y=14, z=-628}
-[15:45:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=14, z=-628} class_2338{x=-37, y=14, z=-628}
-[15:45:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=14, z=-628} class_2338{x=-37, y=14, z=-628}
-[15:45:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=14, z=-628} class_2338{x=-37, y=14, z=-628}
-[15:45:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=14, z=-628} class_2338{x=-37, y=14, z=-628}
-[15:49:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-46, y=16, z=-808} class_2338{x=-46, y=17, z=-807}
-[15:56:43] [epollEventLoopGroup-4-1/INFO]: Player connected with username FILI SIUU
-[15:56:43] [localSession-7-1/INFO]: FILI SIUU (logged in as: FILI_SIUU) has connected to the Java server
-[15:56:43] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .FILI_SIUU 00000000-0000-0000-0009-01fc0c84f21e joined
-[15:56:43] [Thread-82/WARN]: Failed to fetch skin: not found
-[15:56:43] [Server thread/INFO]: .FILI_SIUU[/100.121.22.96:0] logged in with entity id 22281 at (-158.5, 67.0, 59.5)
-[15:56:43] [Server thread/INFO]: Floodgate player logged in as .FILI_SIUU joined (UUID: 00000000-0000-0000-0009-01fc0c84f21e)
-[15:56:43] [Server thread/INFO]: .FILI_SIUU joined the game
-[15:57:22] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .FILI_SIUU disconnected
-[15:57:22] [epollEventLoopGroup-4-1/INFO]: FILI SIUU has disconnected from the Java server because of Bedrock client timed out
-[15:57:22] [Server thread/INFO]: .FILI_SIUU lost connection: Disconnected
-[15:57:22] [Server thread/INFO]: .FILI_SIUU left the game
-[15:59:01] [epollEventLoopGroup-4-2/INFO]: Player connected with username FILI SIUU
-[15:59:01] [localSession-7-2/INFO]: FILI SIUU (logged in as: FILI_SIUU) has connected to the Java server
-[15:59:02] [pool-6-thread-2/INFO]: Floodgate player who is logged in as .FILI_SIUU 00000000-0000-0000-0009-01fc0c84f21e joined
-[15:59:02] [Thread-87/WARN]: Failed to fetch skin: not found
-[15:59:02] [Server thread/INFO]: .FILI_SIUU[/100.121.22.96:0] logged in with entity id 23401 at (-140.44269, 67.0, 26.49719)
-[15:59:02] [Server thread/INFO]: Floodgate player logged in as .FILI_SIUU joined (UUID: 00000000-0000-0000-0009-01fc0c84f21e)
-[15:59:02] [Server thread/INFO]: .FILI_SIUU joined the game
-[16:00:37] [Server thread/INFO]: .FILI_SIUU has made the advancement [Acquire Hardware]
-[16:00:48] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> que hacce??
-[16:01:23] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> mirando lms cofres
-[16:03:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-40, y=9, z=-155} class_2338{x=-44, y=11, z=330}
-[16:08:36] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> ooe sabe poque me coge tan trabado el Minecraft
-[16:08:47] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> donde esta??w
-[16:09:26] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> en donde esta y le doy cosasa
-[16:10:22] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> sigame
-[16:11:01] [Server thread/INFO]: .FILI_SIUU has made the advancement [We Need to Go Deeper]
-[16:12:18] [Server thread/INFO]: .FILI_SIUU has made the advancement [Cover Me with Diamonds]
-[16:14:18] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> se me perdio la shulker de las elytras
-[16:14:41] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> vamo al end
-[16:17:23] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> entre
-[16:17:34] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> como
-[16:17:39] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> salte ahi
-[16:17:42] [Server thread/INFO]: .FILI_SIUU has made the advancement [The End?]
-[16:20:09] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> entre
-[16:20:21] [Server thread/INFO]: .FILI_SIUU has made the advancement [Remote Getaway]
-[16:21:10] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> no mk espere q le consiga unas xq esta lejos vuelva al la isla principal
-[16:21:25] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> bueno
-[16:22:43] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> como me salgo del nether
-[16:24:41] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> donde esta??
-[16:25:02] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> donde aparecimos en el nether
-[16:25:10] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> nether o end
-[16:25:16] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> end
-[16:25:31] [Server thread/INFO]: .FILI_SIUU has reached the goal [Postmortal]
-[16:26:23] [Server thread/INFO]: .FILI_SIUU has reached the goal [Sky's the Limit]
-[16:26:30] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> vamos
-[16:27:07] [Server thread/INFO]: .FILI_SIUU was slain by Enderman
-[16:27:16] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> ushh como
-[16:27:33] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> nose
-[16:28:20] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> endonde se murio?
-[16:28:42] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> aca en la isla principal
-[16:28:54] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> sali y me mato de una
-[16:30:46] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> aca hay hierro
-[16:31:41] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> esto es un horno industrial
-[16:31:54] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> sapo perro
-[16:31:58] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> no toque nada jajaj
-[16:32:33] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> venga
-[16:32:47] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> esa es de piedra
-[16:32:54] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> suba
-[16:33:01] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> eso pa que es
-[16:33:18] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> eso produce 140k de piedra creo
-[16:33:27] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> quiere ver
-[16:34:26] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> suba aca
-[16:34:38] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> no puedo jaja
-[16:34:58] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> jaja
-[16:35:27] [Server thread/INFO]: .FILI_SIUU was doomed to fall
-[16:35:34] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> jajajja no jodas
-[16:35:43] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> jaja
-[16:35:58] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> esta cerca?
-[16:36:08] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> en la isla
-[16:37:09] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> sabe x donde es??
-[16:37:26] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> si ya llegué
-[16:38:16] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> eso es sola piedra
-[16:38:29] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> todo eso esta lleno
-[16:38:31] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> y el horno la vuelve piedra lisa
-[16:38:38] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> lo de los cofres si
-[16:38:43] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> uyy
-[16:38:56] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> eso llena 3 shulkers a la ves xd
-[16:39:14] [Geyser player thread-5-2/WARN]: FILI SIUU exceeded 7 attempts to open a virtual inventory!
-[16:39:28] [Server thread/WARN]: .FILI_SIUU moved too quickly! -8.486660000000029,-8.703630000000004,12.64094
-[16:39:46] [Server thread/INFO]: Villager class_1646['Villager'/39784, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
-[16:39:51] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> eso duplica railes
-[16:40:36] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> venga hacemos cohetes
-[16:41:24] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> esa va y vuelve xd
-[16:41:57] [Server thread/INFO]: .FILI_SIUU has made the advancement [Suit Up]
-[16:42:03] [Server thread/INFO]: .FILI_SIUU has made the advancement [Diamonds!]
-[16:43:45] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> quiere shulkers??
-[16:43:52] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> si
-[16:45:49] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> esto es una granja x4 de mobs
-[16:45:56] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> produce de todo
-[16:46:28] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> el cofre del end es doble ahi puede guardar lo q quiera
-[16:46:40] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> tiene discord
-[16:46:51] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> lo cojo
-[16:47:12] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> si tiene toque de seda lo puede cojer
-[16:47:39] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> vamos x totems
-[16:48:16] [Server thread/WARN]: .FILI_SIUU moved wrongly!
-[16:48:20] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> baje
-[16:48:28] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> arriba no hay nada
-[16:49:04] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> esto es una granja de raids
-[16:49:32] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> abajo hay mas
-[16:50:01] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> pere no ponga bloques o se buguea
-[16:51:31] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> hay solo uno les da espada xd
-[16:51:50] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> como se crean
-[16:52:04] [Server thread/INFO]: .FILI_SIUU has made the advancement [Monster Hunter]
-[16:52:07] [Server thread/INFO]: .FILI_SIUU has made the advancement [Voluntary Exile]
-[16:52:12] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> en el barril hay botellas ud se tiene q tomar una
-[16:52:57] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> ese se muere y ya
-[16:54:52] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> quedese abajo
-[16:55:03] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> esos se mueren si o si
-[16:55:47] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> y si nos vamos que pasa
-[16:55:52] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> nada
-[16:56:09] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> pero active su raid aca
-[16:56:19] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> como
-[16:56:20] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> xq si se va a mi csa se activa alla
-[16:57:08] [Server thread/INFO]: .FILI_SIUU has completed the challenge [Hero of the Village]
-[16:57:12] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> listo
-[16:57:26] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> pero ud tiene el efecto y activa otra
-[16:57:58] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> hay puede obtener eso infinito
-[16:58:12] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> lleve esmeraldas si quiere encantamientos
-[17:00:29] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> eso es basura
-[17:02:42] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> vamos
-[17:03:53] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> aca hay encantamientos
-[17:05:01] [epollEventLoopGroup-4-2/INFO]: FILI SIUU has disconnected from the Java server because of Bedrock client timed out
-[17:05:01] [Geyser Fabric connection thread-6-3/INFO]: Floodgate player logged in as .FILI_SIUU disconnected
-[17:05:01] [Server thread/INFO]: .FILI_SIUU lost connection: Disconnected
-[17:05:01] [Server thread/INFO]: .FILI_SIUU left the game
-[17:05:02] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> compre reparacion y inrrompibilidad para las elytras
-[17:05:17] [epollEventLoopGroup-4-3/INFO]: Player connected with username FILI SIUU
-[17:05:17] [localSession-7-3/INFO]: FILI SIUU (logged in as: FILI_SIUU) has connected to the Java server
-[17:05:17] [pool-6-thread-3/INFO]: Floodgate player who is logged in as .FILI_SIUU 00000000-0000-0000-0009-01fc0c84f21e joined
-[17:05:17] [Thread-214/WARN]: Failed to fetch skin: not found
-[17:05:17] [Server thread/INFO]: .FILI_SIUU[/100.121.22.96:0] logged in with entity id 55754 at (-821.4962, 63.0, 797.08124)
-[17:05:17] [Server thread/INFO]: Floodgate player logged in as .FILI_SIUU joined (UUID: 00000000-0000-0000-0009-01fc0c84f21e)
-[17:05:17] [Server thread/INFO]: .FILI_SIUU joined the game
-[17:05:28] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> compre reparacion y inrrompibilidad para las elytras
-[17:05:44] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> ese esta caro
-[17:06:29] [Server thread/INFO]: .FILI_SIUU has made the advancement [What a Deal!]
-[17:06:59] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> no tengo esmeralda
-[17:08:24] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> no me deja cabiale
-[17:08:35] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> necesita un libro
-[17:09:04] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> pase esmeraldas
-[17:10:22] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> y para repararlo
-[17:10:34] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> ya las encanto??
-[17:10:42] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> donde
-[17:10:50] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> las elytrass??
-[17:11:03] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> no
-[17:11:12] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> paselas y se las encanto
-[17:11:33] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> venga
-[17:12:07] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> tiene q volar x debajo de la granja xq arriba lo matan entiende
-[17:13:01] [Server thread/WARN]: .FILI_SIUU moved wrongly!
-[17:13:46] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> no sale exp
-[17:13:55] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> o esta bug mi juego
-[17:14:04] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> no sale
-[17:14:23] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> ah hp nerfearon esto
-[17:14:59] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> esto producia experiencia
-[17:15:06] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> ahora solo oro
-[17:15:57] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> q raro mk
-[17:16:19] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> es q ayer lo actualize
-[17:16:33] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> por eso es
-[17:16:54] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> no paila
-[17:17:08] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> toca ir a la de esmeraldas y totems ahora
-[17:19:03] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> q raro mk
-[17:19:20] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> la de hierro tampoco funciona como deberia
-[17:24:15] [Server thread/INFO]: .FILI_SIUU has made the advancement [Ice Bucket Challenge]
-[17:24:46] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> ole las cague
-[17:25:12] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> ropi el cofre ese del end y perdi todo
-[17:25:25] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> me dio fue obsidiana
-[17:25:47] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> no
-[17:25:58] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> eso no se pierde
-[17:26:29] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> entonces como los tompo sin que se dañen
-[17:26:32] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> es q tiene q picarlo con toque de seda
-[17:27:48] [Server thread/INFO]: [FxxkingPanda23: Applied enchantment Silk Touch to FxxkingPanda23's item]
-[17:27:59] [Server thread/INFO]: [FxxkingPanda23: Applied enchantment Efficiency V to FxxkingPanda23's item]
-[17:28:15] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> con ese si lo puede picar
-[17:29:40] [Server thread/WARN]: Couldn't find profile with name: geyson
-com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name geyson
-	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-6.0.58.jar:?]
-	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.58.jar:?]
-	at knot/com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:109) ~[authlib-6.0.58.jar:?]
-	at knot/net.minecraft.class_3312.method_14509(class_3312.java:80) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3312.method_14515(class_3312.java:137) ~[server-intermediary.jar:?]
-	at knot/carpet.commands.PlayerCommand.mixinextras$bridge$method_14515$79(PlayerCommand.java) ~[fabric-carpet-1.21.5-1.4.169+v250325.jar:?]
-	at knot/carpet.commands.PlayerCommand.wrapOperation$zla001$carpet-ams-addition$useOfflinePlayerUUID(PlayerCommand.java:1061) ~[fabric-carpet-1.21.5-1.4.169+v250325.jar:?]
-	at knot/carpet.commands.PlayerCommand.cantSpawn(PlayerCommand.java:203) ~[fabric-carpet-1.21.5-1.4.169+v250325.jar:?]
-	at knot/carpet.commands.PlayerCommand.spawn(PlayerCommand.java:256) ~[fabric-carpet-1.21.5-1.4.169+v250325.jar:?]
-	at knot/com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at knot/net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2170.method_54313(class_2170.java:384) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2170.method_9249(class_2170.java:314) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3244.method_58590(class_3244.java:1512) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3244.method_44356(class_3244.java:1500) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.mixinextras$bridge$method_18859$5(class_4093.java) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.wrapOperation$cjm000$carpet-tis-addition$yeetUpdateSuppressionCrash_implForThreadExecutorTaskExecuting(class_4093.java:570) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:882) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:178) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:858) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:822) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:829) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:712) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:290) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:29:40] [Server thread/INFO]: geyson[local] logged in with entity id 63219 at (-565.8639092583237, 238.0, 821.9536237824359)
-[17:29:40] [Server thread/INFO]: geyson joined the game
-[17:30:11] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> son bots para q funcionen las granjas sin uno estar
-[17:30:32] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> a pense que era alguien
-[17:31:01] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> no eso lo unico q hace es cargar la granja y asi uno se vaya funciona
-[17:32:19] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> voy a hacer una cosa
-[17:32:36] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> si quiere busque un lugar y haga una casa
-[17:32:44] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> en mi casa hay materiales
-[17:33:01] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> en esa grande
-[17:33:15] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> sicas en la entrada hay cosas de las q sobraron
-[17:33:41] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> al lado del horno hay unas shulkers llenas de vidrio y piedra si necesita
-[17:34:03] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> tocaria es de yna casa de Youtube
-[17:35:14] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> ahorita juego voy a hechar caldo
-[17:35:31] [epollEventLoopGroup-4-3/INFO]: FILI SIUU has disconnected from the Java server because of Bedrock client disconnected
-[17:35:31] [Geyser Fabric connection thread-6-4/INFO]: Floodgate player logged in as .FILI_SIUU disconnected
-[17:35:31] [Server thread/INFO]: .FILI_SIUU lost connection: Disconnected
-[17:35:31] [Server thread/INFO]: .FILI_SIUU left the game
+[18:01:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:01:46] [main/INFO]: Compatibility level set to JAVA_17
+[18:01:46] [main/INFO]: Compatibility level set to JAVA_21
+[18:01:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:02:04] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.5+build.1-v2.tiny loaded
+[18:02:04] [main/WARN]: en_ is not a supported Floodgate language.
+[18:02:05] [main/INFO]: Loading extensions...
+[18:02:05] [main/INFO]: Loaded 0 extension(s)
+[18:02:06] [main/INFO]: Carpet AMS Addition v2.57.1 loaded! (Total rules: 140)
+[18:02:06] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[18:02:06] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[18:02:06] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[18:02:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:02:10] [main/INFO]: Loaded 1373 recipes
+[18:02:10] [main/INFO]: Loaded 1484 advancements
+[18:02:10] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.880 ms
+[18:02:10] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:02:10] [Server thread/INFO]: Loading properties
+[18:02:10] [Server thread/INFO]: Default game type: SURVIVAL
+[18:02:10] [Server thread/INFO]: Generating keypair
+[18:02:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:02:11] [Server thread/INFO]: Using epoll channel type
+[18:02:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:02:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:02:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:02:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:02:11] [Server thread/INFO]: Preparing level "world"
+[18:02:11] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
+[18:02:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:02:22] [Server thread/INFO]: Time elapsed: 8934 ms
+[18:02:23] [Server thread/INFO]: Loaded 1373 recipes
+[18:02:23] [Server thread/INFO]: Loaded 1484 advancements
+[18:02:23] [Server thread/INFO]: Done (12.093s)! For help, type "help"
+[18:02:23] [Server thread/INFO]: Took 26ms to boot Floodgate
+[18:02:23] [Server thread/INFO]: ******************************************
+[18:02:23] [Server thread/INFO]: 
+[18:02:23] [Server thread/INFO]: Loading Geyser version 2.7.1-b833 (git-master-d0be6d9)
+[18:02:23] [Server thread/INFO]: 
+[18:02:23] [Server thread/INFO]: ******************************************
+[18:02:29] [Server thread/INFO]: Started Geyser on UDP port 19132
+[18:02:29] [Server thread/INFO]: Done (5.24s)! Run /geyser help for help!
+[18:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5456ms or 109 ticks behind
+[18:03:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:04:08] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:53517] logged in with entity id 13 at (-588.9794756492166, 123.0, 784.7974040168034)
+[18:04:08] [Server thread/INFO]: FxxkingPanda23 joined the game
