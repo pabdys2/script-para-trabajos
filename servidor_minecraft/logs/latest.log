@@ -378,3 +378,58 @@
 [17:26:32] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> es q tiene q picarlo con toque de seda
 [17:27:48] [Server thread/INFO]: [FxxkingPanda23: Applied enchantment Silk Touch to FxxkingPanda23's item]
 [17:27:59] [Server thread/INFO]: [FxxkingPanda23: Applied enchantment Efficiency V to FxxkingPanda23's item]
+[17:28:15] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> con ese si lo puede picar
+[17:29:40] [Server thread/WARN]: Couldn't find profile with name: geyson
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name geyson
+	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-6.0.58.jar:?]
+	at knot/com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.58.jar:?]
+	at knot/com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:109) ~[authlib-6.0.58.jar:?]
+	at knot/net.minecraft.class_3312.method_14509(class_3312.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3312.method_14515(class_3312.java:137) ~[server-intermediary.jar:?]
+	at knot/carpet.commands.PlayerCommand.mixinextras$bridge$method_14515$79(PlayerCommand.java) ~[fabric-carpet-1.21.5-1.4.169+v250325.jar:?]
+	at knot/carpet.commands.PlayerCommand.wrapOperation$zla001$carpet-ams-addition$useOfflinePlayerUUID(PlayerCommand.java:1061) ~[fabric-carpet-1.21.5-1.4.169+v250325.jar:?]
+	at knot/carpet.commands.PlayerCommand.cantSpawn(PlayerCommand.java:203) ~[fabric-carpet-1.21.5-1.4.169+v250325.jar:?]
+	at knot/carpet.commands.PlayerCommand.spawn(PlayerCommand.java:256) ~[fabric-carpet-1.21.5-1.4.169+v250325.jar:?]
+	at knot/com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at knot/net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_54313(class_2170.java:384) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_9249(class_2170.java:314) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_58590(class_3244.java:1512) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_44356(class_3244.java:1500) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.mixinextras$bridge$method_18859$5(class_4093.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.wrapOperation$cjm000$carpet-tis-addition$yeetUpdateSuppressionCrash_implForThreadExecutorTaskExecuting(class_4093.java:570) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:882) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:178) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:858) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:822) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:712) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:290) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[17:29:40] [Server thread/INFO]: geyson[local] logged in with entity id 63219 at (-565.8639092583237, 238.0, 821.9536237824359)
+[17:29:40] [Server thread/INFO]: geyson joined the game
+[17:30:11] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> son bots para q funcionen las granjas sin uno estar
+[17:30:32] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> a pense que era alguien
+[17:31:01] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> no eso lo unico q hace es cargar la granja y asi uno se vaya funciona
+[17:32:19] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> voy a hacer una cosa
+[17:32:36] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> si quiere busque un lugar y haga una casa
+[17:32:44] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> en mi casa hay materiales
+[17:33:01] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> en esa grande
+[17:33:15] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> sicas en la entrada hay cosas de las q sobraron
+[17:33:41] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> al lado del horno hay unas shulkers llenas de vidrio y piedra si necesita
+[17:34:03] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> tocaria es de yna casa de Youtube
+[17:35:14] [Server thread/INFO]: [Not Secure] <.FILI_SIUU> ahorita juego voy a hechar caldo
+[17:35:31] [epollEventLoopGroup-4-3/INFO]: FILI SIUU has disconnected from the Java server because of Bedrock client disconnected
+[17:35:31] [Geyser Fabric connection thread-6-4/INFO]: Floodgate player logged in as .FILI_SIUU disconnected
+[17:35:31] [Server thread/INFO]: .FILI_SIUU lost connection: Disconnected
+[17:35:31] [Server thread/INFO]: .FILI_SIUU left the game
