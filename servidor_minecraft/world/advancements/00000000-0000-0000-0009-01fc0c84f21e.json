@@ -9,6 +9,8 @@
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-05-18 15:56:44 +0000",
       "minecraft:beach": "2025-05-18 16:01:29 +0000",
+      "minecraft:forest": "2025-05-18 16:11:41 +0000",
+      "minecraft:ocean": "2025-05-18 16:07:17 +0000",
       "minecraft:stony_shore": "2025-05-18 15:59:15 +0000",
       "minecraft:plains": "2025-05-18 16:01:53 +0000"
     },
@@ -68,6 +70,19 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-18 16:11:01 +0000",
+      "minecraft:nether_wastes": "2025-05-18 16:16:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-18 16:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 16:00:37 +0000"
@@ -104,9 +119,27 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-18 16:11:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-18 16:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-18 16:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-18 16:12:18 +0000"
     },
     "done": true
   },
@@ -154,13 +187,20 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-05-18 16:05:20 +0000"
+      "apple": "2025-05-18 16:05:20 +0000",
+      "golden_carrot": "2025-05-18 16:11:00 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-18 16:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-18 16:09:49 +0000"
     },
     "done": true
   },
