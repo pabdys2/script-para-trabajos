@@ -1170,3 +1170,20 @@
 [18:46:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-788, y=72, z=642} class_2338{x=-788, y=72, z=641}
 [18:46:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-788, y=72, z=642} class_2338{x=-788, y=72, z=641}
 [18:53:57] [Server thread/INFO]: [FxxkingPanda23: The game is sprinting]
+[18:56:33] [Server thread/INFO]: [FxxkingPanda23: Interrupted the current tick sprint]
+[18:56:33] [Server thread/INFO]: [FxxkingPanda23: The game is sprinting]
+[18:59:10] [Server thread/INFO]: [FxxkingPanda23: Gamerule randomTickSpeed is now set to: 1000]
+[18:59:34] [Server thread/INFO]: [FxxkingPanda23: Gamerule randomTickSpeed is now set to: 3]
+[19:00:07] [Server thread/INFO]: [FxxkingPanda23: Set the target tick rate to 20.0 per second]
+[19:02:29] [Server thread/INFO]: Sprint completed with 94 ticks per second, or 10.57 ms per tick
+[19:02:29] [Server thread/INFO]: [FxxkingPanda23: Interrupted the current tick sprint]
+[19:03:46] [Server thread/INFO]: [FxxkingPanda23: Set the target tick rate to 3.0 per second]
+[19:03:59] [Server thread/INFO]: [FxxkingPanda23: Set the target tick rate to 20.0 per second]
+[19:08:38] [Server thread/INFO]: [FxxkingPanda23: Removed every effect from 2 targets]
+[19:11:45] [Server thread/INFO]: [FxxkingPanda23: Gave 10 [Firework Star] to FxxkingPanda23]
+[19:11:53] [Server thread/INFO]: [FxxkingPanda23: Gave 10 [Firework Rocket] to FxxkingPanda23]
+[19:12:53] [Server thread/INFO]: Villager class_1646['Villager'/1075, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[19:13:11] [Server thread/INFO]: FxxkingPanda23 lost connection: Timed out
+[19:13:11] [Server thread/INFO]: FxxkingPanda23 left the game
+[19:13:20] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:60927] logged in with entity id 137986 at (-757.1774731235331, 63.0, 726.693613456609)
+[19:13:20] [Server thread/INFO]: FxxkingPanda23 joined the game
