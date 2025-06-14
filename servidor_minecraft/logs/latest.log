@@ -1167,3 +1167,6 @@
 [18:30:07] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:60544] logged in with entity id 107958 at (-747.8559379887373, 71.0, 614.4353630122088)
 [18:30:07] [Server thread/INFO]: FxxkingPanda23 joined the game
 [18:33:05] [Server thread/INFO]: Villager class_1646['Villager'/1060, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[18:46:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-788, y=72, z=642} class_2338{x=-788, y=72, z=641}
+[18:46:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-788, y=72, z=642} class_2338{x=-788, y=72, z=641}
+[18:53:57] [Server thread/INFO]: [FxxkingPanda23: The game is sprinting]
