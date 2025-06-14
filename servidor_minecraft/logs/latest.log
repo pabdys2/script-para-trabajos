@@ -1146,3 +1146,6 @@
 [17:08:54] [Server thread/INFO]: Villager class_1646['Villager'/1062, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
 [17:21:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-774, y=69, z=648} class_2338{x=-775, y=68, z=647}
 [17:21:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-774, y=69, z=648} class_2338{x=-775, y=68, z=647}
+[17:37:06] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Creative Mode]
+[17:41:47] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Survival Mode]
+[17:42:17] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Creative Mode]
