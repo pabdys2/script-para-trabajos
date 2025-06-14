@@ -221,3 +221,4 @@
 [16:02:21] [Server thread/INFO]: [FxxkingPanda23: Applied effect Haste to FxxkingPanda23]
 [16:05:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-799, y=63, z=836} class_2338{x=-805, y=63, z=799}
 [16:06:38] [Server thread/INFO]: Villager class_1646['Villager'/1073, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[16:26:42] [Server thread/WARN]: FxxkingPanda23 moved wrongly!
