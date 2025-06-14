@@ -1141,3 +1141,5 @@
 [16:36:37] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -798, 101, 591]
 [16:36:37] [Server thread/INFO]: [FxxkingPanda23: Changed the block at -798, 103, 591]
 [16:37:03] [Server thread/INFO]: [FxxkingPanda23: Set own game mode to Survival Mode]
+[16:50:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-796, y=67, z=676} class_2338{x=-798, y=66, z=675}
+[16:50:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-796, y=67, z=676} class_2338{x=-798, y=66, z=675}
