@@ -6464,5 +6464,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_bulb": "2025-06-26 03:12:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4435
 }

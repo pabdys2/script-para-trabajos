@@ -134,3 +134,4 @@
 [02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_gray_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
 [02:46:16] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:50299] logged in with entity id 74 at (-750.0602034377703, 63.0, 726.8311294673005)
 [02:46:16] [Server thread/INFO]: FxxkingPanda23 joined the game
+[03:14:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-811, y=62, z=834} class_2338{x=-810, y=62, z=835}
