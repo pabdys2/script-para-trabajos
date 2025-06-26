@@ -7,9 +7,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sparse_jungle": "2025-04-26 23:47:49 +0000"
+      "minecraft:sparse_jungle": "2025-04-26 23:47:49 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-26 15:28:33 +0000"
     },
     "done": false
   },
-  "DataVersion": 4189
+  "DataVersion": 4435
 }

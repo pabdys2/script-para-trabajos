@@ -1,5 +1,5 @@
-[02:45:14] [main/INFO]: Loading Minecraft 1.21.6 with Fabric Loader 0.16.14
-[02:45:14] [main/INFO]: Loading 48 mods:
+[15:25:40] [main/INFO]: Loading Minecraft 1.21.6 with Fabric Loader 0.16.14
+[15:25:41] [main/INFO]: Loading 48 mods:
 	- carpet 1.4.176+v250617
 	- carpet-ams-addition 2.57.4
 	   |-- annotationtoolbox 0.3
@@ -56,94 +56,72 @@
 	- minecraft 1.21.6
 	- skinrestorer 2.3.5+1.21.6-fabric
 	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
-[02:45:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:45:14] [main/INFO]: Compatibility level set to JAVA_17
-[02:45:14] [main/INFO]: Compatibility level set to JAVA_21
-[02:45:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:45:34] [main/INFO]: Carpet AMS Addition v2.57.4 loaded! (Total rules: 140)
-[02:45:34] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[02:45:34] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[02:45:34] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[02:45:34] [TISCM Mapping/INFO]: Downloading yarn mapping from https://maven.fabricmc.net/net/fabricmc/yarn/1.21.6+build.1/yarn-1.21.6+build.1-v2.jar
-[02:45:34] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:45:35] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.6+build.1-v2.tiny loaded
-[02:45:39] [main/INFO]: Loaded 1407 recipes
-[02:45:39] [main/INFO]: Loaded 1520 advancements
-[02:45:39] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.092 ms
-[02:45:39] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[02:45:39] [Server thread/INFO]: Loading properties
-[02:45:39] [Server thread/INFO]: Default game type: SURVIVAL
-[02:45:39] [Server thread/INFO]: Generating keypair
-[02:45:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:45:40] [Server thread/INFO]: Using epoll channel type
-[02:45:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:45:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:45:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:45:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:45:40] [Server thread/INFO]: Preparing level "world"
-[02:45:40] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
-[02:45:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:45:51] [Server thread/INFO]: Time elapsed: 9540 ms
-[02:45:52] [Server thread/INFO]: Loaded 1407 recipes
-[02:45:52] [Server thread/INFO]: Loaded 1520 advancements
-[02:45:52] [Server thread/INFO]: Done (12.352s)! For help, type "help"
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_brown_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_brown_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_gray_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_gray_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_yellow_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_yellow_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_pink_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_pink_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_blue_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_blue_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_green_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_green_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_lime_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_lime_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_cyan_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_cyan_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_black_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_black_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_gray_bed' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_gray_carpet' in progress file ./world/advancements/b55e80df-427e-3d84-90b3-b219bd7c539d.json - it doesn't exist anymore?
-[02:46:16] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:50299] logged in with entity id 74 at (-750.0602034377703, 63.0, 726.8311294673005)
-[02:46:16] [Server thread/INFO]: FxxkingPanda23 joined the game
-[03:14:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-811, y=62, z=834} class_2338{x=-810, y=62, z=835}
-[03:17:08] [Server thread/INFO]: Villager class_1646['Villager'/106, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
-[03:17:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-813, y=59, z=828} class_2338{x=-813, y=57, z=828}
-[03:17:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-813, y=59, z=828} class_2338{x=-813, y=57, z=828}
-[03:37:10] [Server thread/INFO]: Villager class_1646['Villager'/109, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
-[04:01:09] [Server thread/INFO]: Villager class_1646['Villager'/23807, l='ServerLevel[world]', x=-830.30, y=60.00, z=785.30] died, message: 'Villager was squished too much'
-[04:05:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-814, y=39, z=822} class_2338{x=-813, y=39, z=821}
-[04:05:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-814, y=39, z=822} class_2338{x=-813, y=39, z=821}
-[04:05:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-814, y=39, z=822} class_2338{x=-813, y=39, z=821}
-[04:08:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-802, y=37, z=835} class_2338{x=-803, y=37, z=834}
-[04:10:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-815, y=34, z=830} class_2338{x=-815, y=33, z=828}
-[04:12:50] [Server thread/WARN]: FxxkingPanda23 moved wrongly!
-[04:16:45] [Server thread/INFO]: Villager class_1646['Villager'/23823, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[15:25:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:25:42] [main/INFO]: Compatibility level set to JAVA_17
+[15:25:42] [main/INFO]: Compatibility level set to JAVA_21
+[15:25:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:26:10] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.6+build.1-v2.tiny loaded
+[15:26:11] [main/INFO]: Carpet AMS Addition v2.57.4 loaded! (Total rules: 140)
+[15:26:11] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[15:26:11] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[15:26:11] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[15:26:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:26:20] [main/INFO]: Loaded 1407 recipes
+[15:26:20] [main/INFO]: Loaded 1520 advancements
+[15:26:20] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.782 ms
+[15:26:20] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[15:26:20] [Server thread/INFO]: Loading properties
+[15:26:20] [Server thread/INFO]: Default game type: SURVIVAL
+[15:26:20] [Server thread/INFO]: Generating keypair
+[15:26:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:26:21] [Server thread/INFO]: Using epoll channel type
+[15:26:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:26:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:26:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:26:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:26:21] [Server thread/INFO]: Preparing level "world"
+[15:26:21] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
+[15:26:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:26:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:26:39] [Server thread/INFO]: Time elapsed: 14616 ms
+[15:26:40] [Server thread/INFO]: Loaded 1407 recipes
+[15:26:40] [Server thread/INFO]: Loaded 1520 advancements
+[15:26:41] [Server thread/INFO]: Done (19.478s)! For help, type "help"
+[15:26:45] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:53055] logged in with entity id 74 at (-800.3651253870238, 26.0, 830.4147014642849)
+[15:26:45] [Server thread/INFO]: FxxkingPanda23 joined the game
+[15:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[15:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12436ms or 248 ticks behind
+[15:28:16] [Server thread/INFO]: Made FxxkingPanda23 a server operator
+[15:28:32] [Server thread/INFO]: Sara[local] logged in with entity id 1108 at (-566.3941659381285, 238.0, 822.1307605446393)
+[15:28:32] [Server thread/INFO]: Sara joined the game
+[15:36:29] [Server thread/INFO]: Villager class_1646['Villager'/319, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[15:38:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-808, y=24, z=835} class_2338{x=-811, y=25, z=819}
+[15:38:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-808, y=24, z=835} class_2338{x=-811, y=25, z=819}
