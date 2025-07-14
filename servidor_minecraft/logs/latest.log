@@ -130,3 +130,14 @@
 [13:47:38] [Server thread/INFO]: Villager class_1646['Villager'/30208, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
 [13:55:15] [Server thread/INFO]: Villager class_1646['Villager'/30209, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
 [14:05:53] [Server thread/INFO]: Villager class_1646['Villager'/30207, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[14:28:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-172, y=33, z=211} class_2338{x=-174, y=33, z=210}
+[14:28:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-172, y=33, z=211} class_2338{x=-172, y=33, z=212}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
+[14:29:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=32, z=220} class_2338{x=-179, y=32, z=219}
