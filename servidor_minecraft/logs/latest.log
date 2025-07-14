@@ -128,3 +128,4 @@
 [13:27:57] [Server thread/INFO]: Villager class_1646['Villager'/18740, l='ServerLevel[world]', x=-830.30, y=60.00, z=785.30] died, message: 'Villager was squished too much'
 [13:39:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
 [13:47:38] [Server thread/INFO]: Villager class_1646['Villager'/30208, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[13:55:15] [Server thread/INFO]: Villager class_1646['Villager'/30209, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
