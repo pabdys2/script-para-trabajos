@@ -114,3 +114,4 @@
 [15:42:21] [Server thread/INFO]: FxxkingPanda23 joined the game
 [15:42:22] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
 [15:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[15:54:25] [Server thread/INFO]: Villager class_1646['Villager'/420, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
