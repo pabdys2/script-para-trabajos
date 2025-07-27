@@ -113,3 +113,16 @@
 [17:01:56] [Server thread/INFO]: FxxkingPanda23 joined the game
 [17:01:58] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
 [17:02:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[17:08:00] [Server thread/INFO]: Villager class_1646['Villager'/215, l='ServerLevel[world]', x=-830.30, y=60.00, z=785.30] died, message: 'Villager was squished too much'
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_black_carpet' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_black_bed' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_carpet' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_bed' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_blue_bed' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_blue_carpet' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_gray_carpet' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_gray_bed' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_carpet' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:36] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_bed' in progress file ./world/advancements/69c1e9ec-f741-3cd1-9986-601e57fba466.json - it doesn't exist anymore?
+[17:11:37] [Server thread/INFO]: Mattiu04[/100.84.128.80:54655] logged in with entity id 3452 at (-832.7088963999901, 64.0, 893.518766752504)
+[17:11:37] [Server thread/INFO]: Mattiu04 joined the game
