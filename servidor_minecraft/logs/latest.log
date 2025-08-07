@@ -1,5 +1,5 @@
-[00:34:12] [main/INFO]: Loading Minecraft 1.21.6 with Fabric Loader 0.16.14
-[00:34:13] [main/INFO]: Loading 50 mods:
+[01:15:19] [main/INFO]: Loading Minecraft 1.21.6 with Fabric Loader 0.16.14
+[01:15:20] [main/INFO]: Loading 50 mods:
 	- carpet 1.4.176+v250617
 	- carpet-ams-addition 2.57.4
 	   |-- annotationtoolbox 0.3
@@ -60,68 +60,68 @@
 	- trade_cycling 1.21.6-1.0.19
 	   |-- fabric-key-binding-api-v1 1.0.64+9ec45cd89c
 	   \-- fabric-screen-api-v1 2.0.50+908cbc919c
-[00:34:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:34:14] [main/INFO]: Compatibility level set to JAVA_17
-[00:34:14] [main/INFO]: Compatibility level set to JAVA_21
-[00:34:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:34:34] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.6+build.1-v2.tiny loaded
-[00:34:35] [main/INFO]: Carpet AMS Addition v2.57.4 loaded! (Total rules: 140)
-[00:34:35] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[00:34:35] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[00:34:35] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[00:34:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:34:39] [main/INFO]: Loaded 1407 recipes
-[00:34:39] [main/INFO]: Loaded 1520 advancements
-[00:34:40] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.412 ms
-[00:34:40] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[00:34:40] [Server thread/INFO]: Loading properties
-[00:34:40] [Server thread/INFO]: Default game type: SURVIVAL
-[00:34:40] [Server thread/INFO]: Generating keypair
-[00:34:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:34:40] [Server thread/INFO]: Using epoll channel type
-[00:34:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:34:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:34:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:34:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:34:40] [Server thread/INFO]: Preparing level "world"
-[00:34:40] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
-[00:34:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:34:51] [Worker-Main-1/INFO]: Preparing spawn area: 61%
-[00:34:51] [Server thread/INFO]: Time elapsed: 9600 ms
-[00:34:52] [Server thread/INFO]: Loaded 1407 recipes
-[00:34:52] [Server thread/INFO]: Loaded 1520 advancements
-[00:34:52] [Server thread/INFO]: Done (12.056s)! For help, type "help"
-[00:35:07] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52145] logged in with entity id 13 at (-798.0119315090394, 63.0, 832.7422165887316)
-[00:35:08] [Server thread/INFO]: FxxkingPanda23 joined the game
-[00:35:09] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
-[00:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[00:42:58] [Server thread/INFO]: Villager class_1646['Villager'/3532, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
-[01:03:21] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[01:03:21] [Server thread/INFO]: FxxkingPanda23 left the game
-[01:04:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:06:40] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:61850] logged in with entity id 8924 at (-781.1766689555957, 73.0, 927.8625000119209)
-[01:06:40] [Server thread/INFO]: FxxkingPanda23 joined the game
-[01:06:40] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
-[01:13:36] [Server thread/INFO]: [FxxkingPanda23: Applied effect Haste to FxxkingPanda23]
-[01:21:25] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[01:21:25] [Server thread/INFO]: FxxkingPanda23 left the game
-[01:22:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:15:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:15:21] [main/INFO]: Compatibility level set to JAVA_17
+[01:15:21] [main/INFO]: Compatibility level set to JAVA_21
+[01:15:23] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:15:39] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.6+build.1-v2.tiny loaded
+[01:15:40] [main/INFO]: Carpet AMS Addition v2.57.4 loaded! (Total rules: 140)
+[01:15:40] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[01:15:40] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[01:15:40] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[01:15:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:15:44] [main/INFO]: Loaded 1407 recipes
+[01:15:44] [main/INFO]: Loaded 1520 advancements
+[01:15:45] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.400 ms
+[01:15:45] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[01:15:45] [Server thread/INFO]: Loading properties
+[01:15:45] [Server thread/INFO]: Default game type: SURVIVAL
+[01:15:45] [Server thread/INFO]: Generating keypair
+[01:15:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:15:45] [Server thread/INFO]: Using epoll channel type
+[01:15:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:15:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:15:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:15:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:15:45] [Server thread/INFO]: Preparing level "world"
+[01:15:45] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
+[01:15:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 65%
+[01:15:56] [Server thread/INFO]: Time elapsed: 9264 ms
+[01:15:57] [Server thread/INFO]: Loaded 1407 recipes
+[01:15:57] [Server thread/INFO]: Loaded 1520 advancements
+[01:15:57] [Server thread/INFO]: Done (11.809s)! For help, type "help"
+[01:16:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:17:36] [Server thread/INFO]: Mattiu04[/100.84.128.80:64567] logged in with entity id 13 at (-499.2100641842612, 95.5, -302.1770967382135)
+[01:17:36] [Server thread/INFO]: Mattiu04 joined the game
+[01:18:51] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52175] logged in with entity id 475 at (-110.02394778931478, 128.0, 45.13526026280327)
+[01:18:51] [Server thread/INFO]: FxxkingPanda23 joined the game
+[01:19:22] [Server thread/INFO]: FxxkingPanda23 lost connection: Timed out
+[01:19:22] [Server thread/INFO]: FxxkingPanda23 left the game
+[01:19:29] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52420] logged in with entity id 1119 at (-110.02394778931478, 128.0, 45.13526026280327)
+[01:19:29] [Server thread/INFO]: FxxkingPanda23 joined the game
+[01:19:29] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
+[01:19:42] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> discord??
+[01:20:00] [Server thread/INFO]: [Not Secure] <Mattiu04> Pere que me voy a bañar
+[01:20:02] [Server thread/INFO]: [Not Secure] <Mattiu04> 5m
+[01:20:09] [Server thread/INFO]: [Not Secure] <Mattiu04> Cuentelos si quiere
+[01:20:24] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> jaajajaj no me lo mame y para q a esta hora xd
+[01:21:05] [Server thread/INFO]: [Not Secure] <Mattiu04> Por que llegue de entrenamiento y no me he bañado
