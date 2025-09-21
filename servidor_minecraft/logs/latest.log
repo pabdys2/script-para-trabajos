@@ -218,3 +218,4 @@ java.lang.IllegalStateException: not found
 [22:19:41] [Server thread/INFO]: SajoR left the game
 [22:21:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=821, y=96, z=-409} class_2338{x=822, y=94, z=-407}
 [22:23:06] [Server thread/INFO]: FxxkingPanda23 has made the advancement [A Seedy Place]
+[22:28:33] [Server thread/INFO]: Villager class_1646['Nitwit'/21997, l='ServerLevel[world]', x=731.70, y=78.00, z=-415.30] died, message: 'Nitwit was slain by Zombie'
