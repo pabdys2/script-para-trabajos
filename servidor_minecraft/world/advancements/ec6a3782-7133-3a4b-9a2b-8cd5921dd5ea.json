@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-21 20:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-09-21 20:25:15 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-09-21 20:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-21 20:45:46 +0000"
     },
     "done": true
   },
@@ -383,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-09-21 20:41:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-09-21 20:30:07 +0000"
@@ -407,9 +425,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-09-21 20:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-21 20:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-09-21 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-09-21 20:41:07 +0000"
     },
     "done": true
   },
@@ -427,16 +463,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-09-21 20:17:45 +0000",
       "minecraft:snowy_slopes": "2025-09-21 20:25:32 +0000",
       "minecraft:forest": "2025-09-21 20:22:48 +0000",
       "minecraft:taiga": "2025-09-21 20:09:59 +0000",
+      "minecraft:river": "2025-09-21 20:12:58 +0000",
+      "minecraft:stony_shore": "2025-09-21 20:17:28 +0000",
+      "minecraft:dripstone_caves": "2025-09-21 20:40:14 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-21 20:17:45 +0000",
       "minecraft:ocean": "2025-09-21 20:17:33 +0000",
       "minecraft:cherry_grove": "2025-09-21 20:25:19 +0000",
-      "minecraft:river": "2025-09-21 20:12:58 +0000",
+      "minecraft:grove": "2025-09-21 20:46:15 +0000",
       "minecraft:meadow": "2025-09-21 20:23:29 +0000",
       "minecraft:birch_forest": "2025-09-21 20:19:38 +0000",
-      "minecraft:stony_shore": "2025-09-21 20:17:28 +0000",
       "minecraft:plains": "2025-09-21 20:23:42 +0000"
     },
     "done": false
@@ -498,6 +536,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-21 20:30:35 +0000",
+      "cooked_chicken": "2025-09-21 20:45:04 +0000",
       "cooked_salmon": "2025-09-21 20:16:17 +0000"
     },
     "done": false
@@ -586,6 +625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-21 20:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-09-21 20:14:27 +0000"
@@ -601,6 +646,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-09-21 20:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-21 20:45:46 +0000"
     },
     "done": true
   },

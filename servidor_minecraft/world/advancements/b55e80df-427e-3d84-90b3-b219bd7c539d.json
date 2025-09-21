@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-09-21 20:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-09-21 20:22:42 +0000"
@@ -107,6 +113,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-21 20:40:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-09-21 20:06:02 +0000"
@@ -116,6 +134,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 20:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-21 20:46:08 +0000"
     },
     "done": true
   },
@@ -179,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-09-21 19:56:47 +0000"
@@ -233,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-09-21 20:22:42 +0000"
@@ -254,6 +290,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-21 20:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
     },
     "done": true
   },
@@ -344,6 +386,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_shovel": "2025-09-21 20:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-21 20:52:02 +0000"
     },
     "done": true
   },
@@ -443,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-21 20:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-09-21 20:25:48 +0000"
@@ -517,6 +571,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-09-21 20:40:14 +0000",
       "minecraft:zombie": "2025-09-21 20:04:49 +0000"
     },
     "done": false
@@ -581,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-21 20:41:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 20:30:16 +0000"
@@ -590,6 +651,18 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-09-21 20:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-09-21 20:46:08 +0000"
     },
     "done": true
   },
@@ -605,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-09-21 19:56:47 +0000"
@@ -613,16 +692,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-09-21 20:17:45 +0000",
       "minecraft:old_growth_pine_taiga": "2025-09-21 20:06:13 +0000",
       "minecraft:forest": "2025-09-21 20:14:12 +0000",
       "minecraft:taiga": "2025-09-21 19:53:17 +0000",
+      "minecraft:river": "2025-09-21 20:06:15 +0000",
+      "minecraft:stony_shore": "2025-09-21 20:14:13 +0000",
+      "minecraft:dripstone_caves": "2025-09-21 20:40:48 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-21 20:17:45 +0000",
       "minecraft:ocean": "2025-09-21 20:17:33 +0000",
       "minecraft:cherry_grove": "2025-09-21 20:22:05 +0000",
       "minecraft:sunflower_plains": "2025-09-21 20:23:47 +0000",
-      "minecraft:river": "2025-09-21 20:06:15 +0000",
+      "minecraft:grove": "2025-09-21 20:49:37 +0000",
+      "minecraft:meadow": "2025-09-21 20:48:36 +0000",
       "minecraft:birch_forest": "2025-09-21 20:19:38 +0000",
-      "minecraft:stony_shore": "2025-09-21 20:14:13 +0000",
       "minecraft:plains": "2025-09-21 20:22:07 +0000"
     },
     "done": false
@@ -669,6 +751,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-21 20:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-09-21 20:04:00 +0000"
@@ -686,6 +780,18 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-09-21 19:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-21 20:40:22 +0000"
     },
     "done": true
   },
@@ -761,6 +867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-09-21 20:24:05 +0000"
@@ -776,6 +888,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-09-21 19:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-09-21 20:52:02 +0000"
     },
     "done": true
   },
