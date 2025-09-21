@@ -1,137 +1,118 @@
-[01:15:19] [main/INFO]: Loading Minecraft 1.21.6 with Fabric Loader 0.16.14
-[01:15:20] [main/INFO]: Loading 50 mods:
-	- carpet 1.4.176+v250617
-	- carpet-ams-addition 2.57.4
+[19:12:23] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[19:12:24] [main/INFO]: Loading 51 mods:
+	- carpet 1.4.177+v250630
+	- carpet-ams-addition 2.57.6
 	   |-- annotationtoolbox 0.3
 	   \-- mixinextras 0.4.1
 	- carpet-extra 1.4.176
-	- carpet-tis-addition 1.67.1
+	- carpet-tis-addition 1.69.0
 	   \-- conditional-mixin 0.6.4
-	- fabric-api 0.128.0+1.21.6
-	   |-- fabric-api-base 0.4.64+9ec45cd896
-	   |-- fabric-api-lookup-api-v1 1.6.100+946bf4c396
-	   |-- fabric-biome-api-v1 16.0.11+946bf4c396
-	   |-- fabric-block-api-v1 1.1.3+946bf4c396
-	   |-- fabric-block-view-api-v2 1.0.31+946bf4c396
-	   |-- fabric-command-api-v2 2.2.53+946bf4c396
-	   |-- fabric-content-registries-v0 10.0.18+946bf4c396
-	   |-- fabric-convention-tags-v1 2.1.38+7f945d5b96
-	   |-- fabric-convention-tags-v2 2.15.3+946bf4c396
-	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c396
-	   |-- fabric-data-attachment-api-v1 1.8.10+946bf4c396
-	   |-- fabric-data-generation-api-v1 23.2.2+946bf4c396
-	   |-- fabric-dimensions-v1 4.0.19+946bf4c396
-	   |-- fabric-entity-events-v1 2.1.1+c9e4727396
-	   |-- fabric-events-interaction-v0 4.0.23+946bf4c396
-	   |-- fabric-game-rule-api-v1 1.0.72+946bf4c396
-	   |-- fabric-item-api-v1 11.4.3+946bf4c396
-	   |-- fabric-item-group-api-v1 4.2.13+946bf4c396
-	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c396
-	   |-- fabric-lifecycle-events-v1 2.6.3+db4dfd8596
-	   |-- fabric-loot-api-v2 3.0.55+3f89f5a596
-	   |-- fabric-loot-api-v3 2.0.2+946bf4c396
-	   |-- fabric-message-api-v1 6.1.1+946bf4c396
-	   |-- fabric-model-loading-api-v1 5.2.5+946bf4c396
-	   |-- fabric-networking-api-v1 5.0.1+946bf4c396
-	   |-- fabric-object-builder-api-v1 21.1.7+946bf4c396
-	   |-- fabric-particles-v1 4.1.7+946bf4c396
-	   |-- fabric-recipe-api-v1 8.1.14+946bf4c396
-	   |-- fabric-registry-sync-v0 6.1.27+946bf4c396
-	   |-- fabric-renderer-api-v1 7.0.2+946bf4c396
-	   |-- fabric-renderer-indigo 4.0.2+946bf4c396
-	   |-- fabric-rendering-fluids-v1 3.1.30+fa6cb72b96
-	   |-- fabric-rendering-v1 12.4.0+e8d43c7696
-	   |-- fabric-resource-conditions-api-v1 5.0.24+946bf4c396
-	   |-- fabric-resource-loader-v0 3.1.11+946bf4c396
-	   |-- fabric-screen-api-v1 2.0.51+946bf4c396
-	   |-- fabric-screen-handler-api-v1 1.3.136+946bf4c396
-	   |-- fabric-sound-api-v1 1.0.42+946bf4c396
-	   |-- fabric-tag-api-v1 1.2.1+946bf4c396
-	   |-- fabric-transfer-api-v1 6.0.5+946bf4c396
-	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d196
+	- fabric-api 0.133.4+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.1.0+c75de69d2c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.13+38b5f74e2c
+	   |-- fabric-data-generation-api-v1 23.2.7+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.20+948fc79a2c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.25+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.7+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.3+4ddbf91b2c
+	   |-- fabric-object-builder-api-v1 21.1.9+946bf4c32c
+	   |-- fabric-particles-v1 4.1.9+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.16+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.29+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.4+208eed172c
+	   |-- fabric-renderer-indigo 4.0.4+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.1+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.138+946bf4c32c
+	   |-- fabric-serialization-api-v1 1.0.0+fc0e5aba2c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.5.0+c847ce762c
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
-	- fallingtree 1.21.6.4
+	- fallingtree 1.21.8.3
 	- inventorymanagement 1.6.0
 	- java 21
-	- minecraft 1.21.6
-	- skinrestorer 2.3.5+1.21.6-fabric
+	- minecraft 1.21.8
+	- skinrestorer 2.4.3+1.21.6-fabric
 	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
-	- trade_cycling 1.21.6-1.0.19
-	   |-- fabric-key-binding-api-v1 1.0.64+9ec45cd89c
-	   \-- fabric-screen-api-v1 2.0.50+908cbc919c
-[01:15:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:15:21] [main/INFO]: Compatibility level set to JAVA_17
-[01:15:21] [main/INFO]: Compatibility level set to JAVA_21
-[01:15:23] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:15:39] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.6+build.1-v2.tiny loaded
-[01:15:40] [main/INFO]: Carpet AMS Addition v2.57.4 loaded! (Total rules: 140)
-[01:15:40] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[01:15:40] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[01:15:40] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[01:15:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:15:44] [main/INFO]: Loaded 1407 recipes
-[01:15:44] [main/INFO]: Loaded 1520 advancements
-[01:15:45] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.400 ms
-[01:15:45] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[01:15:45] [Server thread/INFO]: Loading properties
-[01:15:45] [Server thread/INFO]: Default game type: SURVIVAL
-[01:15:45] [Server thread/INFO]: Generating keypair
-[01:15:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:15:45] [Server thread/INFO]: Using epoll channel type
-[01:15:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:15:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:15:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:15:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:15:45] [Server thread/INFO]: Preparing level "world"
-[01:15:45] [Server thread/INFO]: [CM] Loaded 5 settings from carpet.conf
-[01:15:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:15:56] [Worker-Main-1/INFO]: Preparing spawn area: 65%
-[01:15:56] [Server thread/INFO]: Time elapsed: 9264 ms
-[01:15:57] [Server thread/INFO]: Loaded 1407 recipes
-[01:15:57] [Server thread/INFO]: Loaded 1520 advancements
-[01:15:57] [Server thread/INFO]: Done (11.809s)! For help, type "help"
-[01:16:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:17:36] [Server thread/INFO]: Mattiu04[/100.84.128.80:64567] logged in with entity id 13 at (-499.2100641842612, 95.5, -302.1770967382135)
-[01:17:36] [Server thread/INFO]: Mattiu04 joined the game
-[01:18:51] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52175] logged in with entity id 475 at (-110.02394778931478, 128.0, 45.13526026280327)
-[01:18:51] [Server thread/INFO]: FxxkingPanda23 joined the game
-[01:19:22] [Server thread/INFO]: FxxkingPanda23 lost connection: Timed out
-[01:19:22] [Server thread/INFO]: FxxkingPanda23 left the game
-[01:19:29] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:52420] logged in with entity id 1119 at (-110.02394778931478, 128.0, 45.13526026280327)
-[01:19:29] [Server thread/INFO]: FxxkingPanda23 joined the game
-[01:19:29] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
-[01:19:42] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> discord??
-[01:20:00] [Server thread/INFO]: [Not Secure] <Mattiu04> Pere que me voy a bañar
-[01:20:02] [Server thread/INFO]: [Not Secure] <Mattiu04> 5m
-[01:20:09] [Server thread/INFO]: [Not Secure] <Mattiu04> Cuentelos si quiere
-[01:20:24] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> jaajajaj no me lo mame y para q a esta hora xd
-[01:21:05] [Server thread/INFO]: [Not Secure] <Mattiu04> Por que llegue de entrenamiento y no me he bañado
-[01:27:35] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> xd
-[01:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[01:29:41] [Server thread/INFO]: Villager class_1646['Villager'/3401, l='ServerLevel[world]', x=-830.70, y=60.00, z=785.30] died, message: 'Villager was squished too much'
-[01:34:07] [Server thread/INFO]: [Not Secure] <Mattiu04> Discord
-[01:38:18] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> d1
-[01:59:04] [Server thread/INFO]: FxxkingPanda23 lost connection: Disconnected
-[01:59:04] [Server thread/INFO]: FxxkingPanda23 left the game
-[02:03:31] [Server thread/INFO]: Mattiu04 lost connection: Disconnected
-[02:03:31] [Server thread/INFO]: Mattiu04 left the game
-[02:04:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+	- trade_cycling 1.21.8-1.0.19
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c3f3
+	   \-- fabric-screen-api-v1 2.1.0+277ecf7df3
+[19:12:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:12:24] [main/INFO]: Compatibility level set to JAVA_17
+[19:12:24] [main/INFO]: Compatibility level set to JAVA_21
+[19:12:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:12:42] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
+[19:12:43] [main/INFO]: Carpet AMS Addition v2.57.6 loaded! (Total rules: 140)
+[19:12:43] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[19:12:43] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[19:12:43] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[19:12:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:12:44] [main/INFO]: Found new data pack fabric, loading it automatically
+[19:12:44] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[19:12:46] [main/INFO]: No existing world data, creating new world
+[19:12:48] [main/INFO]: Loaded 1407 recipes
+[19:12:48] [main/INFO]: Loaded 1520 advancements
+[19:12:48] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.541 ms
+[19:12:48] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:12:48] [Server thread/INFO]: Loading properties
+[19:12:48] [Server thread/INFO]: Default game type: SURVIVAL
+[19:12:48] [Server thread/INFO]: Generating keypair
+[19:12:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:12:49] [Server thread/INFO]: Using epoll channel type
+[19:12:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:12:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:12:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:12:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:12:49] [Server thread/INFO]: Preparing level "world"
+[19:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:13:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:13:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:13:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:13:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:13:10] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[19:13:11] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[19:13:11] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[19:13:12] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[19:13:12] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[19:13:13] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:13] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:14] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:14] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:16] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:16] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:17] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:17] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[19:13:18] [Server thread/INFO]: Time elapsed: 11067 ms
+[19:13:19] [Server thread/INFO]: Loaded 1407 recipes
+[19:13:19] [Server thread/INFO]: Loaded 1520 advancements
+[19:13:19] [Server thread/INFO]: Done (30.030s)! For help, type "help"
+[19:14:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
