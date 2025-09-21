@@ -1,5 +1,5 @@
-[19:12:23] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[19:12:24] [main/INFO]: Loading 51 mods:
+[19:52:31] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[19:52:32] [main/INFO]: Loading 51 mods:
 	- carpet 1.4.177+v250630
 	- carpet-ams-addition 2.57.6
 	   |-- annotationtoolbox 0.3
@@ -61,58 +61,97 @@
 	- trade_cycling 1.21.8-1.0.19
 	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c3f3
 	   \-- fabric-screen-api-v1 2.1.0+277ecf7df3
-[19:12:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:12:24] [main/INFO]: Compatibility level set to JAVA_17
-[19:12:24] [main/INFO]: Compatibility level set to JAVA_21
-[19:12:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:12:42] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
-[19:12:43] [main/INFO]: Carpet AMS Addition v2.57.6 loaded! (Total rules: 140)
-[19:12:43] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
-[19:12:43] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
-[19:12:43] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
-[19:12:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:12:44] [main/INFO]: Found new data pack fabric, loading it automatically
-[19:12:44] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[19:12:46] [main/INFO]: No existing world data, creating new world
-[19:12:48] [main/INFO]: Loaded 1407 recipes
-[19:12:48] [main/INFO]: Loaded 1520 advancements
-[19:12:48] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.541 ms
-[19:12:48] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[19:12:48] [Server thread/INFO]: Loading properties
-[19:12:48] [Server thread/INFO]: Default game type: SURVIVAL
-[19:12:48] [Server thread/INFO]: Generating keypair
-[19:12:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:12:49] [Server thread/INFO]: Using epoll channel type
-[19:12:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:12:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:12:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:12:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:12:49] [Server thread/INFO]: Preparing level "world"
-[19:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:13:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:13:10] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[19:13:11] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[19:13:11] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[19:13:12] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[19:13:12] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[19:13:13] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:13] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:14] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:14] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:15] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:16] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:16] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:17] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:17] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[19:13:18] [Server thread/INFO]: Time elapsed: 11067 ms
-[19:13:19] [Server thread/INFO]: Loaded 1407 recipes
-[19:13:19] [Server thread/INFO]: Loaded 1520 advancements
-[19:13:19] [Server thread/INFO]: Done (30.030s)! For help, type "help"
-[19:14:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:52:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/script-para-trabajos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:52:32] [main/INFO]: Compatibility level set to JAVA_17
+[19:52:32] [main/INFO]: Compatibility level set to JAVA_21
+[19:52:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:52:50] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
+[19:52:50] [main/INFO]: Carpet AMS Addition v2.57.6 loaded! (Total rules: 140)
+[19:52:50] [main/INFO]: Open Source: https://github.com/Minecraft-AMS/Carpet-AMS-Addition
+[19:52:50] [main/INFO]: Issues: https://github.com/Minecraft-AMS/Carpet-AMS-Addition/issues
+[19:52:50] [main/INFO]: Wiki: https://minecraft-ams.github.io/carpetamsaddition/
+[19:52:51] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:52:55] [main/INFO]: Loaded 1407 recipes
+[19:52:55] [main/INFO]: Loaded 1520 advancements
+[19:52:56] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.005 ms
+[19:52:56] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:52:56] [Server thread/INFO]: Loading properties
+[19:52:56] [Server thread/INFO]: Default game type: SURVIVAL
+[19:52:56] [Server thread/INFO]: Generating keypair
+[19:52:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:52:56] [Server thread/INFO]: Using epoll channel type
+[19:52:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:52:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:52:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:52:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:52:56] [Server thread/INFO]: Preparing level "world"
+[19:52:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:53:07] [Server thread/INFO]: Time elapsed: 9579 ms
+[19:53:08] [Server thread/INFO]: Loaded 1407 recipes
+[19:53:08] [Server thread/INFO]: Loaded 1520 advancements
+[19:53:08] [Server thread/INFO]: Done (11.418s)! For help, type "help"
+[19:53:15] [Server thread/INFO]: FxxkingPanda23[/100.75.53.124:59946] logged in with entity id 22 at (15.5, 88.0, 8.5)
+[19:53:16] [Server thread/INFO]: FxxkingPanda23 joined the game
+[19:53:17] [Server thread/INFO]: Player FxxkingPanda23 joined with a matching carpet client
+[19:53:51] [Server thread/INFO]: SajoR[/100.70.75.35:36832] logged in with entity id 196 at (7.5, 91.0, 2.5)
+[19:53:51] [Server thread/INFO]: SajoR joined the game
+[19:56:47] [Server thread/INFO]: FxxkingPanda23 has made the advancement [Stone Age]
+[19:56:52] [Server thread/INFO]: FxxkingPanda23 has made the advancement [Getting an Upgrade]
+[19:57:06] [Server thread/INFO]: SajoR has made the advancement [Stone Age]
+[20:02:55] [Server thread/INFO]: [FxxkingPanda23: Gamerule playersSleepingPercentage is now set to: 1]
+[20:04:49] [Server thread/INFO]: FxxkingPanda23 has made the advancement [Monster Hunter]
+[20:05:11] [Server thread/INFO]: SajoR lost connection: Disconnected
+[20:05:11] [Server thread/INFO]: SajoR left the game
+[20:06:46] [Server thread/INFO]: SajoR[/100.70.75.35:59742] logged in with entity id 2917 at (-59.73490158776192, 80.0, 18.391081602914202)
+[20:06:46] [Server thread/INFO]: SajoR joined the game
+[20:07:21] [Server thread/INFO]: FxxkingPanda23 was slain by Zombie
+[20:09:57] [Thread-31/WARN]: Failed to fetch skin 'mojang:BraAlex69'
+java.lang.IllegalStateException: not found
+	at knot/net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.3+1.21.6-fabric.jar:?]
+	at knot/net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:146) ~[skinrestorer-2.4.3+1.21.6-fabric.jar:?]
+	at knot/net.lionarius.skinrestorer.skin.provider.MojangSkinProvider$1.findProfileByName(MojangSkinProvider.java:70) ~[skinrestorer-2.4.3+1.21.6-fabric.jar:?]
+	at knot/net.minecraft.class_3312.method_14509(class_3312.java:80) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3312.method_14515(class_3312.java:137) ~[server-intermediary.jar:?]
+	at knot/net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:117) ~[skinrestorer-2.4.3+1.21.6-fabric.jar:?]
+	at knot/net.minecraft.class_3248.mde24432$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(class_3248.java:1578) ~[server-intermediary.jar:?]
+	at java.base/java.util.Optional.map(Optional.java:260) ~[?:?]
+	at knot/net.minecraft.class_3248.skinrestorer$fetchSkin(class_3248.java:1577) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3248.mde24432$skinrestorer$lambda$waitForSkin$0$2(class_3248.java:1562) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20:09:58] [Server thread/INFO]: BraAlex69[/100.74.195.35:56968] logged in with entity id 3577 at (8.5, 88.0, 9.5)
+[20:09:58] [Server thread/INFO]: BraAlex69 joined the game
+[20:10:48] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> siga los imdicadores de abajo
+[20:10:54] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> para encontrarnos
+[20:14:08] [Server thread/INFO]: BraAlex69 has made the advancement [Stone Age]
+[20:14:38] [Server thread/INFO]: BraAlex69 has made the advancement [Getting an Upgrade]
+[20:15:23] [Server thread/INFO]: SajoR has made the advancement [Getting an Upgrade]
+[20:16:23] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> brayan nos vamos
+[20:16:30] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> siganos
+[20:17:46] [Server thread/INFO]: SajoR lost connection: Disconnected
+[20:17:46] [Server thread/INFO]: SajoR left the game
+[20:18:34] [Server thread/INFO]: SajoR[/100.70.75.35:53922] logged in with entity id 5969 at (177.9683757126543, 65.0, -226.9684443079652)
+[20:18:34] [Server thread/INFO]: SajoR joined the game
+[20:19:30] [Server thread/INFO]: [Not Secure] <FxxkingPanda23> vamoss
+[20:23:33] [Server thread/INFO]: SajoR has made the advancement [Sweet Dreams]
+[20:27:54] [Server thread/INFO]: BraAlex69 has made the advancement [A Seedy Place]
+[20:30:16] [Server thread/INFO]: FxxkingPanda23 has made the advancement [Acquire Hardware]
