@@ -341,6 +341,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-09-21 20:56:22 +0000",
       "minecraft:skeleton": "2025-09-21 20:40:14 +0000",
+      "minecraft:breeze": "2025-09-21 21:44:29 +0000",
       "minecraft:enderman": "2025-09-21 21:30:10 +0000",
       "minecraft:spider": "2025-09-21 21:22:38 +0000",
       "minecraft:zombie": "2025-09-21 20:04:49 +0000"
@@ -1065,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-21 21:51:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-09-21 20:56:23 +0000"
@@ -1311,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-09-21 21:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper": {
     "criteria": {
       "has_waxed_copper_block": "2025-09-21 21:42:54 +0000"
@@ -1500,6 +1513,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-09-21 21:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-09-21 21:46:17 +0000"
     },
     "done": true
   },
@@ -1722,6 +1741,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-09-21 21:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-09-21 21:46:17 +0000"
     },
     "done": true
   },
